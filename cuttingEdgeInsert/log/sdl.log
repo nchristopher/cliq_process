@@ -1,0 +1,44 @@
+2012-09-16 18:11:29,729 INFO  [main] controller.Controller initLog (Controller.java:367) - The log has been initialized
+2012-09-16 18:11:29,742 INFO  [main] process.ProcessConfig getBeanFactory (ProcessConfig.java:78) - Loading process configuration from config file: C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeInsert\config\process-conf.xml
+2012-09-16 18:11:29,848 INFO  [main] xml.XmlBeanDefinitionReader loadBeanDefinitions (XmlBeanDefinitionReader.java:163) - Loading XML bean definitions from file [C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeInsert\config\process-conf.xml]
+2012-09-16 18:11:29,913 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:66) - JDK 1.4+ collections available
+2012-09-16 18:11:29,933 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:71) - Commons Collections 3.x available
+2012-09-16 18:11:30,065 INFO  [cuttingEdgeInsert] controller.Controller initConfig (Controller.java:328) - The controller config has been initialized
+2012-09-16 18:11:30,073 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:90) - Initializing process engine
+2012-09-16 18:11:30,074 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:93) - Loading parameters
+2012-09-16 18:11:32,048 INFO  [cuttingEdgeInsert] config.LastRun load (LastRun.java:101) - Last run info will be saved in file: C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeInsert\log\cuttingEdgeInsert_lastRun.properties
+2012-09-16 18:11:32,114 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:101) - Logging in to: https://www.salesforce.com/services/Soap/u/22.0
+2012-09-16 18:11:32,134 INFO  [cuttingEdgeInsert] client.PartnerClient login (PartnerClient.java:448) - Beginning Partner Salesforce login ....
+2012-09-16 18:11:32,181 INFO  [cuttingEdgeInsert] client.PartnerClient loginInternal (PartnerClient.java:488) - Salesforce login to https://www.salesforce.com/services/Soap/u/22.0/services/Soap/u/22.0 as user mp@bourne-leisure.co.uk
+2012-09-16 18:11:33,239 INFO  [cuttingEdgeInsert] dao.DataAccessObjectFactory getDaoInstance (DataAccessObjectFactory.java:51) - Instantiating data access object: C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeInsert\read\cuttingEdgeInsert.csv of type: csvRead
+2012-09-16 18:11:33,247 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:106) - Checking the data access object connection
+2012-09-16 18:11:33,249 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:111) - Setting field types
+2012-09-16 18:11:34,243 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:115) - Setting object reference types
+2012-09-16 18:11:34,457 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:119) - Creating Map
+2012-09-16 18:11:34,462 INFO  [cuttingEdgeInsert] action.OperationInfo instantiateAction (OperationInfo.java:70) - Instantiating action for operation: insert
+2012-09-16 18:11:34,562 INFO  [cuttingEdgeInsert] controller.Controller executeAction (Controller.java:106) - executing operation: insert
+2012-09-16 18:11:34,563 INFO  [cuttingEdgeInsert] action.AbstractAction execute (AbstractAction.java:113) - Loading: insert
+2012-09-16 18:11:34,862 INFO  [cuttingEdgeInsert] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 16 of 16 total records. Rate: 215,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 16 successes and 0 errors.
+2012-09-16 18:11:34,870 INFO  [cuttingEdgeInsert] progress.NihilistProgressAdapter doneSuccess (NihilistProgressAdapter.java:60) - The operation has fully completed.  There were 16 successful inserts and 0 errors.
+2012-09-16 18:12:07,853 INFO  [main] controller.Controller initLog (Controller.java:367) - The log has been initialized
+2012-09-16 18:12:07,867 INFO  [main] process.ProcessConfig getBeanFactory (ProcessConfig.java:78) - Loading process configuration from config file: C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeInsert\config\process-conf.xml
+2012-09-16 18:12:07,969 INFO  [main] xml.XmlBeanDefinitionReader loadBeanDefinitions (XmlBeanDefinitionReader.java:163) - Loading XML bean definitions from file [C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeInsert\config\process-conf.xml]
+2012-09-16 18:12:08,034 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:66) - JDK 1.4+ collections available
+2012-09-16 18:12:08,055 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:71) - Commons Collections 3.x available
+2012-09-16 18:12:08,185 INFO  [cuttingEdgeInsert] controller.Controller initConfig (Controller.java:328) - The controller config has been initialized
+2012-09-16 18:12:08,192 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:90) - Initializing process engine
+2012-09-16 18:12:08,193 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:93) - Loading parameters
+2012-09-16 18:12:10,139 INFO  [cuttingEdgeInsert] config.LastRun load (LastRun.java:101) - Last run info will be saved in file: C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeInsert\log\cuttingEdgeInsert_lastRun.properties
+2012-09-16 18:12:10,174 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:101) - Logging in to: https://www.salesforce.com/services/Soap/u/22.0
+2012-09-16 18:12:10,194 INFO  [cuttingEdgeInsert] client.PartnerClient login (PartnerClient.java:448) - Beginning Partner Salesforce login ....
+2012-09-16 18:12:10,239 INFO  [cuttingEdgeInsert] client.PartnerClient loginInternal (PartnerClient.java:488) - Salesforce login to https://www.salesforce.com/services/Soap/u/22.0/services/Soap/u/22.0 as user mp@bourne-leisure.co.uk
+2012-09-16 18:12:11,250 INFO  [cuttingEdgeInsert] dao.DataAccessObjectFactory getDaoInstance (DataAccessObjectFactory.java:51) - Instantiating data access object: C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeInsert\read\cuttingEdgeInsert.csv of type: csvRead
+2012-09-16 18:12:11,259 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:106) - Checking the data access object connection
+2012-09-16 18:12:11,262 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:111) - Setting field types
+2012-09-16 18:12:12,182 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:115) - Setting object reference types
+2012-09-16 18:12:12,401 INFO  [cuttingEdgeInsert] process.ProcessRunner run (ProcessRunner.java:119) - Creating Map
+2012-09-16 18:12:12,406 INFO  [cuttingEdgeInsert] action.OperationInfo instantiateAction (OperationInfo.java:70) - Instantiating action for operation: insert
+2012-09-16 18:12:12,506 INFO  [cuttingEdgeInsert] controller.Controller executeAction (Controller.java:106) - executing operation: insert
+2012-09-16 18:12:12,508 INFO  [cuttingEdgeInsert] action.AbstractAction execute (AbstractAction.java:113) - Loading: insert
+2012-09-16 18:12:12,776 INFO  [cuttingEdgeInsert] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 16 of 16 total records. Rate: 247,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 16 successes and 0 errors.
+2012-09-16 18:12:12,784 INFO  [cuttingEdgeInsert] progress.NihilistProgressAdapter doneSuccess (NihilistProgressAdapter.java:60) - The operation has fully completed.  There were 16 successful inserts and 0 errors.

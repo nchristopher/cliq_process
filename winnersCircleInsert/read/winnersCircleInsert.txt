@@ -1,0 +1,1532 @@
+TYPE__C,RANK__C,CSP_NAME__C,PARK__C,TOTAL_SALES__C,TOTAL_MARGIN__C
+Total Sales YTD,1,Louise Roberts,Presthaven,66,518673
+Total Sales YTD,2,Amanda Johnson ,Golden Sands,65,409089
+Total Sales YTD,3,Robert B Cheesman,Allhallows  ,63,655370
+Total Sales YTD,4,Chris Davis,Primrose Valley,48,530286
+Total Sales YTD,5,Carlos Perez,Cala Gran,48,337553
+Total Sales YTD,6,Jay Earls,Greenacres,47,562385
+Total Sales YTD,7,Masum Ahmed (Ali),Burnham on Sea,47,485553
+Total Sales YTD,8,Louise Peart,Seton,46,382917
+Total Sales YTD,9,John Mills,Hopton,43,383958
+Total Sales YTD,10,Dave Medhurst,Devon Cliffs,42,445308
+Total Sales YTD,11,Nick Butler,Reighton Sands,41,407744
+Total Sales YTD,12,Carl Leech,Seashore,41,383458
+Total Sales YTD,13,Hayden Yates,Presthaven,41,341125
+Total Sales YTD,14,Russell Potter,Marton Mere,39,351729
+Total Sales YTD,15,Vicky Ward,Orchards,39,316363
+Total Sales YTD,16,Steve Mitchell,Rockley Park,38,615673
+Total Sales YTD,17,Peter Daulton,Primrose Valley,38,404026
+Total Sales YTD,18,Benjy Caplan,Weymouth,37,381981
+Total Sales YTD,19,Jay Wilson,Marton Mere,37,356884
+Total Sales YTD,20,Steve Wilkes,Caister,37,267325
+Total Sales YTD,21,Ryan Kirk,Burnham on Sea,35,340504
+Total Sales YTD,22,Chris Newell,Kiln Park,35,322143
+Total Sales YTD,23,Robert Jenion,Orchards,35,277804
+Total Sales YTD,24,Ian Harrison,Haggerston,34,358540
+Total Sales YTD,25,Chris King,Craig Tara,34,323223
+Total Sales YTD,26,Iain Reynolds,Berwick  ,34,299536
+Total Sales YTD,27,Piers Palfreman,Thorpe Park,34,286174
+Total Sales YTD,28,Sarah Carmichael,Haggerston,33,565109
+Total Sales YTD,29,Steve Drew,Church Farm,33,487282
+Total Sales YTD,30,Andy Brant,Berwick  ,33,335279
+Total Sales YTD,31,Kristie Clark,Littlesea,33,315699
+Total Sales YTD,32,John Smith,Hopton,33,309797
+Total Sales YTD,33,Glenn Hockings,Caister,33,258236
+Total Sales YTD,34,Stuart Anderson,Doniford Bay,32,349924
+Total Sales YTD,35,Alistair McNeill,Doniford Bay,32,344243
+Total Sales YTD,36,Kurt Drew ,Hafan y Mor,30,506252
+Total Sales YTD,37,Savvas Savva ,Devon Cliffs,30,398507
+Total Sales YTD,38,Ross Marks,Devon Cliffs,30,355263
+Total Sales YTD,39,Jason Forbes,Primrose Valley,30,293791
+Total Sales YTD,40,Jade Button,Wild Duck,30,286095
+Total Sales YTD,41,Shamsul Ali,Kiln Park,30,260681
+Total Sales YTD,42,Steven Green,Marton Mere,30,248271
+Total Sales YTD,43,Joe Lemon,Burnham on Sea,29,329064
+Total Sales YTD,44,Mark Northmore,Devon Cliffs,29,297883
+Total Sales YTD,45,Mikey O'Gillion,Cala Gran,29,222056
+Total Sales YTD,46,Lee Packham,Church Farm,26,344028
+Total Sales YTD,47,James Durham,Primrose Valley,26,255476
+Total Sales YTD,48,Joe Dixon ,Hafan y Mor,25,296319
+Total Sales YTD,49,Chris Allerston,Weymouth,25,291625
+Total Sales YTD,50,Paul Darroch,Craig Tara,25,236594
+Total Sales YTD,51,Jez Yale,Presthaven,25,216554
+Total Sales YTD,52,Wayne Birkbeck,Lakeland,24,280624
+Total Sales YTD,53,Rob Bates,Weymouth,24,278290
+Total Sales YTD,54,Lee Gregory,Combe Haven,24,258211
+Total Sales YTD,55,Richard Grieve,Haggerston,24,256102
+Total Sales YTD,56,Darron Wilson ,Reighton Sands,24,231159
+Total Sales YTD,57,Scott Smart,Seashore,24,174057
+Total Sales YTD,58,Chris Tedford ,Golden Sands,24,145561
+Total Sales YTD,59,Amanda Houlden,Far Grange,23,358196
+Total Sales YTD,60,Eddy Davies,Littlesea,23,250217
+Total Sales YTD,61,Amy Franklin,Wild Duck,23,236830
+Total Sales YTD,62,Stephen Friel,Quay West,23,235403
+Total Sales YTD,63,Joel Wilcox,Lakeland,23,216432
+Total Sales YTD,64,Craig Reardon,Greenacres,23,208832
+Total Sales YTD,65,Leon Stefani,Marton Mere,23,205877
+Total Sales YTD,66,Rod Foran,Thorpe Park,23,204871
+Total Sales YTD,67,Rose McQuaid,Caister,23,189454
+Total Sales YTD,68,Darren Griffiths,Quay West,23,185855
+Total Sales YTD,69,Paul F Bingham,Far Grange,23,184900
+Total Sales YTD,70,Angela Grey,Hopton,22,206893
+Total Sales YTD,71,Danny Martin,Thorpe Park,22,173017
+Total Sales YTD,72,Trudy Dowty,Perran Sands,21,267252
+Total Sales YTD,73,Pete Johnson,Devon Cliffs,21,240692
+Total Sales YTD,74,Jane Wilson,Greenacres,21,226471
+Total Sales YTD,75,Steve Reynolds,Caister,21,183938
+Total Sales YTD,76,Joe Christopher,Presthaven,21,160603
+Total Sales YTD,77,Mark Stanton,Rockley Park,20,318357
+Total Sales YTD,78,Tommy Walker,Lydstep Beach,20,286949
+Total Sales YTD,79,Gerry Hepher,Church Farm,20,280511
+Total Sales YTD,80,Richard McNulty,Craig Tara,20,211635
+Total Sales YTD,81,Paul Allan,Berwick  ,20,192500
+Total Sales YTD,82,Kevin Grant,Blue Dolphin ,20,190446
+Total Sales YTD,83,Phil Siddle,Blue Dolphin ,20,180429
+Total Sales YTD,84,Dave O'Halloran,Hopton,20,180387
+Total Sales YTD,85,Matt Parsons,Lydstep Beach,19,322143
+Total Sales YTD,86,Chaz Gross,Church Farm,19,263052
+Total Sales YTD,87,Loren Rafique,Combe Haven,19,195465
+Total Sales YTD,88,James Lankovits,Kiln Park,19,174024
+Total Sales YTD,89,Rob Knight,Littlesea,18,199013
+Total Sales YTD,90,Nathan Shaw,Perran Sands,18,177061
+Total Sales YTD,91,Chris Eteo,Blue Dolphin ,18,145183
+Total Sales YTD,92,Gary Scott,Seashore,18,132704
+Total Sales YTD,93,Mark Clegg ,Hafan y Mor,17,219920
+Total Sales YTD,94,Fiona Gillings,Reighton Sands,17,162609
+Total Sales YTD,95,Johnnie Bell,Craig Tara,17,140525
+Total Sales YTD,96,Sarah Hendry,Thorpe Park,17,136326
+Total Sales YTD,97,Mel Cinesi ,Hafan y Mor,16,230390
+Total Sales YTD,98,James Wills,Rockley Park,16,208960
+Total Sales YTD,99,Danilo Freitas,Rockley Park,16,193711
+Total Sales YTD,100,Dave Staniforth,Primrose Valley,16,161667
+Total Sales YTD,101,Stuart Grant,Rockley Park,15,233707
+Total Sales YTD,102,Adam Daniel,Caister,15,149378
+Total Sales YTD,103,Andrew Rees,Kiln Park,15,143218
+Total Sales YTD,104,Ruth Guest,Blue Dolphin ,15,133916
+Total Sales YTD,105,Bryan Gallacher,Craig Tara,15,131490
+Total Sales YTD,106,Gary Ross,Haggerston,15,124510
+Total Sales YTD,107,Steven Burgess,Church Farm,14,227844
+Total Sales YTD,108,Keiran Jump,Doniford Bay,14,128087
+Total Sales YTD,109,Keith Howard,Seashore,14,114383
+Total Sales YTD,110,Leona Wilson,Craig Tara,14,107170
+Total Sales YTD,111,Chris Macgregor,Seton,14,103527
+Total Sales YTD,112,Stuart Vallance ,Far Grange,13,203864
+Total Sales YTD,113,James Getens,Devon Cliffs,13,142598
+Total Sales YTD,114,Andy Fothergill,Thorpe Park,13,121996
+Total Sales YTD,115,Carwyn James,Quay West,13,112277
+Total Sales YTD,116,Ron Rundle,Weymouth,12,153040
+Total Sales YTD,117,Steve Boardman,Quay West,12,140936
+Total Sales YTD,118,Neil Watson,Allhallows  ,12,124279
+Total Sales YTD,119,James Wilson,Allhallows  ,12,114657
+Total Sales YTD,120,Adrian Linton,Wild Duck,12,98437
+Total Sales YTD,121,Mark Payne,Seton,12,97497
+Total Sales YTD,122,Ryan Park,Cala Gran,12,86874
+Total Sales YTD,123,Lee Rubens,Littlesea,11,112977
+Total Sales YTD,124,Trevor Bowden,Reighton Sands,11,104032
+Total Sales YTD,125,Dave Haggerty,Berwick  ,11,101879
+Total Sales YTD,126,Kristian Evans,Presthaven,10,84026
+Total Sales YTD,127,Dean Taylor,Thorpe Park,10,80880
+Total Sales YTD,128,Barry McBeth,Hafan y Mor,9,119169
+Total Sales YTD,129,James Gatens,Devon Cliffs,9,117551
+Total Sales YTD,130,Martin Woods,Primrose Valley,9,115695
+Total Sales YTD,131,Neal Hargreaves,Orchards,9,86860
+Total Sales YTD,132,Jonathan Feetham,Hopton,9,81911
+Total Sales YTD,133,Adrian Russell,Golden Sands,9,68305
+Total Sales YTD,134,Steven Plunkett,Perran Sands,8,98219
+Total Sales YTD,135,Laura Brash,Seton,8,85791
+Total Sales YTD,136,Matthew Shaw,Haggerston,8,65530
+Total Sales YTD,137,Martin Warmer,Rockley Park,7,140461
+Total Sales YTD,138,Damian MacDonald,Presthaven,6,47763
+Total Sales YTD,139,Richard Harrison,Lakeland,6,46085
+Total Sales YTD,140,Jessica O'Malley,Hopton,6,40838
+Total Sales YTD,141,Dave Hedley,Haggerston,5,84159
+Total Sales YTD,142,Aaron Scantlebury,Greenacres,5,51485
+Total Sales YTD,143,Tufail Dad,Reighton Sands,5,47043
+Total Sales YTD,144,James Steele,Seton,5,39389
+Total Sales YTD,145,Gary Reed,Combe Haven,5,38159
+Total Sales YTD,146,Glenn Hughes,Presthaven,5,37373
+Total Sales YTD,147,Ashley Ocego,Hopton,5,34008
+Total Sales YTD,148,Ashleigh Honey,Combe Haven,4,41520
+Total Sales YTD,149,Lyndsey Daniels,Combe Haven,4,40063
+Total Sales YTD,150,Mel Cinesi,Allhallows  ,4,34980
+Total Sales YTD,151,Emily Johansson ,Lydstep Beach,3,41801
+Total Sales YTD,152,Neil Evans,Lydstep Beach,3,41720
+Total Sales YTD,153,Dominic Devine,Wild Duck,3,34134
+Total Sales YTD,154,Murray Gissing,Thorpe Park,3,33884
+Total Sales YTD,155,Lynn Harris,Allhallows  ,3,24421
+Total Sales YTD,156,Laura Prior,Cala Gran,3,21864
+Total Sales YTD,157,Paul Whittaker,Burnham on Sea,2,73623
+Total Sales YTD,158,Colin Butler ,Rockley Park,2,51535
+Total Sales YTD,159,Danny Kaye,Far Grange,2,42858
+Total Sales YTD,160,Arron Scantlebury,Greenacres,2,39467
+Total Sales YTD,161,Geoff Slater,Far Grange,2,36405
+Total Sales YTD,162,Danni Stephenson,Far Grange,2,30555
+Total Sales YTD,163,Dai Jones,Kiln Park,2,25360
+Total Sales YTD,164,Chris Williams,Lydstep Beach,2,23356
+Total Sales YTD,165,David Jones,Kiln Park,2,21083
+Total Sales YTD,166,April Picton,Burnham on Sea,2,20992
+Total Sales YTD,167,Chris Logue,Berwick  ,2,20391
+Total Sales YTD,168,Ben Daulby,Littlesea,2,19025
+Total Sales YTD,169,Becky Beechy,Quay West,2,17870
+Total Sales YTD,170,Andy Crowther,Berwick  ,2,15234
+Total Sales YTD,171,Simon Clarke,Thorpe Park,2,8518
+Total Sales YTD,172,Anna King,Rockley Park,1,29544
+Total Sales YTD,173,Dave Hoban,Presthaven,1,22760
+Total Sales YTD,174,Sherryann Gould,Quay West,1,17823
+Total Sales YTD,175,Paul Griffin,Caister,1,14425
+Total Sales YTD,176,Sarah Scott,Berwick  ,1,12041
+Total Sales YTD,177,Paul Bingham ,Far Grange,1,11430
+Total Sales YTD,178,Bobby Jones,Littlesea,1,11144
+Total Sales YTD,179,Gill Lowen,Caister,1,10730
+Total Sales YTD,180,Steve Burgess,Church Farm,1,10432
+Total Sales YTD,181,Bernie Lawson,Seton,1,9596
+Total Sales YTD,182,Kayleigh Jackson,Littlesea,1,8130
+Total Sales YTD,183,Dean Turner,Combe Haven,1,8108
+Total Sales YTD,184,Kelly Lowen,Seashore,1,8050
+Total Sales YTD,185,Manager,Orchards,1,7049
+Total Sales YTD,186,Ben Brooks,Kiln Park,1,5792
+All Rounder YTD,1,Amanda Johnson ,Golden Sands,,
+All Rounder YTD,2,Louise Roberts,Presthaven,,
+All Rounder YTD,3,Russell Potter,Marton Mere,,
+All Rounder YTD,4,Carlos Perez,Cala Gran,,
+All Rounder YTD,5,Dave Medhurst,Devon Cliffs,,
+All Rounder YTD,6,Louise Peart,Seton,,
+All Rounder YTD,7,Carl Leech,Seashore,,
+All Rounder YTD,8,Kurt Drew ,Hafan y Mor,,
+All Rounder YTD,9,Steven Green,Marton Mere,,
+All Rounder YTD,10,Benjy Caplan,Weymouth,,
+All Rounder YTD,11,Jay Wilson,Marton Mere,,
+All Rounder YTD,12,Robert B Cheesman,Allhallows  ,,
+All Rounder YTD,13,Hayden Yates,Presthaven,,
+All Rounder YTD,14,John Mills,Hopton,,
+All Rounder YTD,15,Masum Ahmed (Ali),Burnham on Sea,,
+All Rounder YTD,16,Iain Reynolds,Berwick  ,,
+All Rounder YTD,17,Steve Wilkes,Caister,,
+All Rounder YTD,18,Alistair McNeill,Doniford Bay,,
+All Rounder YTD,19,Kristie Clark,Littlesea,,
+All Rounder YTD,20,Scott Smart,Seashore,,
+All Rounder YTD,21,Chris Davis,Primrose Valley,,
+All Rounder YTD,22,Peter Daulton,Primrose Valley,,
+All Rounder YTD,23,Jay Earls,Greenacres,,
+All Rounder YTD,24,Andy Brant,Berwick  ,,
+All Rounder YTD,25,Chris Newell,Kiln Park,,
+All Rounder YTD,26,Leon Stefani,Marton Mere,,
+All Rounder YTD,27,Vicky Ward,Orchards,,
+All Rounder YTD,28,Jason Forbes,Primrose Valley,,
+All Rounder YTD,29,James Durham,Primrose Valley,,
+All Rounder YTD,30,Glenn Hockings,Caister,,
+All Rounder YTD,31,Mikey O'Gillion,Cala Gran,,
+All Rounder YTD,32,Nick Butler,Reighton Sands,,
+All Rounder YTD,33,Sarah Carmichael,Haggerston,,
+All Rounder YTD,34,Jade Button,Wild Duck,,
+All Rounder YTD,35,Stuart Anderson,Doniford Bay,,
+All Rounder YTD,36,Shamsul Ali,Kiln Park,,
+All Rounder YTD,37,Jez Yale,Presthaven,,
+All Rounder YTD,38,Steve Mitchell,Rockley Park,,
+All Rounder YTD,39,Ryan Kirk,Burnham on Sea,,
+All Rounder YTD,40,Ian Harrison,Haggerston,,
+All Rounder YTD,41,Gary Scott,Seashore,,
+All Rounder YTD,42,Ross Marks,Devon Cliffs,,
+All Rounder YTD,43,John Smith,Hopton,,
+All Rounder YTD,44,Mark Northmore,Devon Cliffs,,
+All Rounder YTD,45,Craig Reardon,Greenacres,,
+All Rounder YTD,46,Joe Dixon ,Hafan y Mor,,
+All Rounder YTD,47,Rob Bates,Weymouth,,
+All Rounder YTD,48,Savvas Savva ,Devon Cliffs,,
+All Rounder YTD,49,Keith Howard,Seashore,,
+All Rounder YTD,50,Paul Darroch,Craig Tara,,
+All Rounder YTD,51,Richard Grieve,Haggerston,,
+All Rounder YTD,52,Chris Tedford ,Golden Sands,,
+All Rounder YTD,53,Joe Christopher,Presthaven,,
+All Rounder YTD,54,Amy Franklin,Wild Duck,,
+All Rounder YTD,55,Steve Drew,Church Farm,,
+All Rounder YTD,56,Lee Gregory,Combe Haven,,
+All Rounder YTD,57,Wayne Birkbeck,Lakeland,,
+All Rounder YTD,58,Paul F Bingham,Far Grange,,
+All Rounder YTD,59,Chris King,Craig Tara,,
+All Rounder YTD,60,Adam Daniel,Caister,,
+All Rounder YTD,61,Gerry Hepher,Church Farm,,
+All Rounder YTD,62,Piers Palfreman,Thorpe Park,,
+All Rounder YTD,63,Jane Wilson,Greenacres,,
+All Rounder YTD,64,Mark Clegg ,Hafan y Mor,,
+All Rounder YTD,65,Tommy Walker,Lydstep Beach,,
+All Rounder YTD,66,Joe Lemon,Burnham on Sea,,
+All Rounder YTD,67,Joel Wilcox,Lakeland,,
+All Rounder YTD,68,Rose McQuaid,Caister,,
+All Rounder YTD,69,Lee Packham,Church Farm,,
+All Rounder YTD,70,Stephen Friel,Quay West,,
+All Rounder YTD,71,Gary Ross,Haggerston,,
+All Rounder YTD,72,Steve Reynolds,Caister,,
+All Rounder YTD,73,Richard McNulty,Craig Tara,,
+All Rounder YTD,74,Phil Siddle,Blue Dolphin ,,
+All Rounder YTD,75,Mel Cinesi ,Hafan y Mor,,
+All Rounder YTD,76,Danny Martin,Thorpe Park,,
+All Rounder YTD,77,Leona Wilson,Craig Tara,,
+All Rounder YTD,78,Darron Wilson ,Reighton Sands,,
+All Rounder YTD,79,Rod Foran,Thorpe Park,,
+All Rounder YTD,80,Keiran Jump,Doniford Bay,,
+All Rounder YTD,81,Darren Griffiths,Quay West,,
+All Rounder YTD,82,Chris Eteo,Blue Dolphin ,,
+All Rounder YTD,83,Dave O'Halloran,Hopton,,
+All Rounder YTD,84,Dave Staniforth,Primrose Valley,,
+All Rounder YTD,85,Robert Jenion,Orchards,,
+All Rounder YTD,86,Rob Knight,Littlesea,,
+All Rounder YTD,87,Nathan Shaw,Perran Sands,,
+All Rounder YTD,88,Sarah Hendry,Thorpe Park,,
+All Rounder YTD,89,Paul Allan,Berwick  ,,
+All Rounder YTD,90,Eddy Davies,Littlesea,,
+All Rounder YTD,91,Stuart Grant,Rockley Park,,
+All Rounder YTD,92,Chris Allerston,Weymouth,,
+All Rounder YTD,93,James Lankovits,Kiln Park,,
+All Rounder YTD,94,Fiona Gillings,Reighton Sands,,
+All Rounder YTD,95,Mark Stanton,Rockley Park,,
+All Rounder YTD,96,Trudy Dowty,Perran Sands,,
+All Rounder YTD,97,Andrew Rees,Kiln Park,,
+All Rounder YTD,98,Trevor Bowden,Reighton Sands,,
+All Rounder YTD,99,Johnnie Bell,Craig Tara,,
+All Rounder YTD,100,Angela Grey,Hopton,,
+All Rounder YTD,101,Pete Johnson,Devon Cliffs,,
+All Rounder YTD,102,Ruth Guest,Blue Dolphin ,,
+All Rounder YTD,103,Kevin Grant,Blue Dolphin ,,
+All Rounder YTD,104,Adrian Linton,Wild Duck,,
+All Rounder YTD,105,Danilo Freitas,Rockley Park,,
+All Rounder YTD,106,Steve Boardman,Quay West,,
+All Rounder YTD,107,Dave Haggerty,Berwick  ,,
+All Rounder YTD,108,James Getens,Devon Cliffs,,
+All Rounder YTD,109,Matt Parsons,Lydstep Beach,,
+All Rounder YTD,110,Ryan Park,Cala Gran,,
+All Rounder YTD,111,Loren Rafique,Combe Haven,,
+All Rounder YTD,112,Bryan Gallacher,Craig Tara,,
+All Rounder YTD,113,Jonathan Feetham,Hopton,,
+All Rounder YTD,114,James Wills,Rockley Park,,
+All Rounder YTD,115,Kristian Evans,Presthaven,,
+All Rounder YTD,116,Chris Macgregor,Seton,,
+All Rounder YTD,117,Steven Plunkett,Perran Sands,,
+All Rounder YTD,118,Mark Payne,Seton,,
+All Rounder YTD,119,Amanda Houlden,Far Grange,,
+All Rounder YTD,120,Neil Watson,Allhallows  ,,
+All Rounder YTD,121,Ron Rundle,Weymouth,,
+All Rounder YTD,122,Chaz Gross,Church Farm,,
+All Rounder YTD,123,Lee Rubens,Littlesea,,
+All Rounder YTD,124,Carwyn James,Quay West,,
+All Rounder YTD,125,James Wilson,Allhallows  ,,
+All Rounder YTD,126,Martin Woods,Primrose Valley,,
+All Rounder YTD,127,Glenn Hughes,Presthaven,,
+All Rounder YTD,128,Adrian Russell,Golden Sands,,
+All Rounder YTD,129,Tufail Dad,Reighton Sands,,
+All Rounder YTD,130,James Gatens,Devon Cliffs,,
+All Rounder YTD,131,Stuart Vallance ,Far Grange,,
+All Rounder YTD,132,Richard Harrison,Lakeland,,
+All Rounder YTD,133,Gary Reed,Combe Haven,,
+All Rounder YTD,134,Andy Fothergill,Thorpe Park,,
+All Rounder YTD,135,Matthew Shaw,Haggerston,,
+All Rounder YTD,136,Neal Hargreaves,Orchards,,
+All Rounder YTD,137,Laura Brash,Seton,,
+All Rounder YTD,138,Jessica O'Malley,Hopton,,
+All Rounder YTD,139,Ashley Ocego,Hopton,,
+All Rounder YTD,140,Martin Warmer,Rockley Park,,
+All Rounder YTD,141,Barry McBeth,Hafan y Mor,,
+All Rounder YTD,142,Dave Hedley,Haggerston,,
+All Rounder YTD,143,Steven Burgess,Church Farm,,
+All Rounder YTD,144,Dominic Devine,Wild Duck,,
+All Rounder YTD,145,Lyndsey Daniels,Combe Haven,,
+All Rounder YTD,146,James Steele,Seton,,
+All Rounder YTD,147,Mel Cinesi,Allhallows  ,,
+All Rounder YTD,148,Damian MacDonald,Presthaven,,
+All Rounder YTD,149,Dean Taylor,Thorpe Park,,
+All Rounder YTD,150,Aaron Scantlebury,Greenacres,,
+All Rounder YTD,151,Arron Scantlebury,Greenacres,,
+All Rounder YTD,152,Ashleigh Honey,Combe Haven,,
+All Rounder YTD,153,Laura Prior,Cala Gran,,
+All Rounder YTD,154,Murray Gissing,Thorpe Park,,
+All Rounder YTD,155,Chris Logue,Berwick  ,,
+All Rounder YTD,156,Kayleigh Jackson,Littlesea,,
+All Rounder YTD,157,Lynn Harris,Allhallows  ,,
+All Rounder YTD,158,Ben Daulby,Littlesea,,
+All Rounder YTD,159,Emily Johansson ,Lydstep Beach,,
+All Rounder YTD,160,David Jones,Kiln Park,,
+All Rounder YTD,161,Danni Stephenson,Far Grange,,
+All Rounder YTD,162,Paul Whittaker,Burnham on Sea,,
+All Rounder YTD,163,Danny Kaye,Far Grange,,
+All Rounder YTD,164,Sarah Scott,Berwick  ,,
+All Rounder YTD,165,Bobby Jones,Littlesea,,
+All Rounder YTD,166,Simon Clarke,Thorpe Park,,
+All Rounder YTD,167,Manager,Orchards,,
+All Rounder YTD,168,Anna King,Rockley Park,,
+All Rounder YTD,169,Dean Turner,Combe Haven,,
+All Rounder YTD,170,Kelly Lowen,Seashore,,
+All Rounder YTD,171,Becky Beechy,Quay West,,
+All Rounder YTD,172,Neil Evans,Lydstep Beach,,
+All Rounder YTD,173,Geoff Slater,Far Grange,,
+All Rounder YTD,174,Dai Jones,Kiln Park,,
+All Rounder YTD,175,Chris Williams,Lydstep Beach,,
+All Rounder YTD,176,Dave Hoban,Presthaven,,
+All Rounder YTD,177,Sherryann Gould,Quay West,,
+All Rounder YTD,178,April Picton,Burnham on Sea,,
+All Rounder YTD,179,Gill Lowen,Caister,,
+All Rounder YTD,180,Colin Butler ,Rockley Park,,
+All Rounder YTD,181,Steve Burgess,Church Farm,,
+All Rounder YTD,182,Bernie Lawson,Seton,,
+All Rounder YTD,183,Andy Crowther,Berwick  ,,
+All Rounder YTD,184,Paul Griffin,Caister,,
+All Rounder YTD,185,Paul Bingham ,Far Grange,,
+All Rounder YTD,186,Ben Brooks,Kiln Park,,
+New Customer Sales YTD,1,Robert B Cheesman,Allhallows  ,41,441868
+New Customer Sales YTD,2,Amanda Johnson ,Golden Sands,38,220966
+New Customer Sales YTD,3,Louise Roberts,Presthaven,37,272559
+New Customer Sales YTD,4,Jay Earls,Greenacres,33,393732
+New Customer Sales YTD,5,Louise Peart,Seton,33,284425
+New Customer Sales YTD,6,Vicky Ward,Orchards,30,245466
+New Customer Sales YTD,7,Peter Daulton,Primrose Valley,29,293744
+New Customer Sales YTD,8,Carlos Perez,Cala Gran,28,190028
+New Customer Sales YTD,9,Steve Mitchell,Rockley Park,27,449250
+New Customer Sales YTD,10,Russell Potter,Marton Mere,27,241498
+New Customer Sales YTD,11,Iain Reynolds,Berwick  ,27,237181
+New Customer Sales YTD,12,James Durham,Primrose Valley,26,255476
+New Customer Sales YTD,13,Ryan Kirk,Burnham on Sea,25,258862
+New Customer Sales YTD,14,Mark Northmore,Devon Cliffs,25,248195
+New Customer Sales YTD,15,Dave Medhurst,Devon Cliffs,25,229566
+New Customer Sales YTD,16,Hayden Yates,Presthaven,24,180295
+New Customer Sales YTD,17,Masum Ahmed (Ali),Burnham on Sea,23,237239
+New Customer Sales YTD,18,Kristie Clark,Littlesea,23,217915
+New Customer Sales YTD,19,Robert Jenion,Orchards,23,167737
+New Customer Sales YTD,20,Kurt Drew ,Hafan y Mor,22,364123
+New Customer Sales YTD,21,Carl Leech,Seashore,22,214671
+New Customer Sales YTD,22,Steven Green,Marton Mere,22,173548
+New Customer Sales YTD,23,Jason Forbes,Primrose Valley,21,197167
+New Customer Sales YTD,24,Benjy Caplan,Weymouth,21,194510
+New Customer Sales YTD,25,Sarah Carmichael,Haggerston,20,337182
+New Customer Sales YTD,26,Lee Packham,Church Farm,20,269553
+New Customer Sales YTD,27,Joe Lemon,Burnham on Sea,20,228822
+New Customer Sales YTD,28,Joel Wilcox,Lakeland,20,178782
+New Customer Sales YTD,29,John Mills,Hopton,20,178705
+New Customer Sales YTD,30,Leon Stefani,Marton Mere,20,178181
+New Customer Sales YTD,31,Joe Christopher,Presthaven,20,150733
+New Customer Sales YTD,32,Glenn Hockings,Caister,20,148752
+New Customer Sales YTD,33,Piers Palfreman,Thorpe Park,20,142779
+New Customer Sales YTD,34,Steve Wilkes,Caister,20,134968
+New Customer Sales YTD,35,Chris Newell,Kiln Park,19,192567
+New Customer Sales YTD,36,Chris King,Craig Tara,19,191458
+New Customer Sales YTD,37,Darron Wilson ,Reighton Sands,19,186828
+New Customer Sales YTD,38,Ross Marks,Devon Cliffs,18,192754
+New Customer Sales YTD,39,Andy Brant,Berwick  ,18,191864
+New Customer Sales YTD,40,Paul F Bingham,Far Grange,18,140294
+New Customer Sales YTD,41,Rob Bates,Weymouth,17,199140
+New Customer Sales YTD,42,Alistair McNeill,Doniford Bay,17,192789
+New Customer Sales YTD,43,Shamsul Ali,Kiln Park,17,148595
+New Customer Sales YTD,44,Mikey O'Gillion,Cala Gran,17,127726
+New Customer Sales YTD,45,Mark Stanton,Rockley Park,16,260671
+New Customer Sales YTD,46,Pete Johnson,Devon Cliffs,16,173121
+New Customer Sales YTD,47,Nick Butler,Reighton Sands,16,160676
+New Customer Sales YTD,48,Fiona Gillings,Reighton Sands,16,156140
+New Customer Sales YTD,49,James Lankovits,Kiln Park,16,149466
+New Customer Sales YTD,50,Craig Reardon,Greenacres,16,142118
+New Customer Sales YTD,51,Rod Foran,Thorpe Park,16,135939
+New Customer Sales YTD,52,Amanda Houlden,Far Grange,15,213157
+New Customer Sales YTD,53,James Wills,Rockley Park,15,185928
+New Customer Sales YTD,54,Richard McNulty,Craig Tara,15,159075
+New Customer Sales YTD,55,Stuart Anderson,Doniford Bay,15,155398
+New Customer Sales YTD,56,Jay Wilson,Marton Mere,15,151274
+New Customer Sales YTD,57,Paul Darroch,Craig Tara,15,149077
+New Customer Sales YTD,58,Dave O'Halloran,Hopton,15,140980
+New Customer Sales YTD,59,Richard Grieve,Haggerston,15,131116
+New Customer Sales YTD,60,Danny Martin,Thorpe Park,15,120300
+New Customer Sales YTD,61,Gerry Hepher,Church Farm,14,196405
+New Customer Sales YTD,62,Tommy Walker,Lydstep Beach,14,193110
+New Customer Sales YTD,63,Danilo Freitas,Rockley Park,14,179076
+New Customer Sales YTD,64,Savvas Savva ,Devon Cliffs,14,168464
+New Customer Sales YTD,65,Stephen Friel,Quay West,14,142853
+New Customer Sales YTD,66,Jade Button,Wild Duck,14,133095
+New Customer Sales YTD,67,Andrew Rees,Kiln Park,14,130300
+New Customer Sales YTD,68,Dave Staniforth,Primrose Valley,14,127899
+New Customer Sales YTD,69,Jez Yale,Presthaven,14,124052
+New Customer Sales YTD,70,Bryan Gallacher,Craig Tara,14,121413
+New Customer Sales YTD,71,Scott Smart,Seashore,14,107197
+New Customer Sales YTD,72,Steve Drew,Church Farm,13,168515
+New Customer Sales YTD,73,Joe Dixon ,Hafan y Mor,13,160696
+New Customer Sales YTD,74,Eddy Davies,Littlesea,13,148687
+New Customer Sales YTD,75,Chris Davis,Primrose Valley,13,144378
+New Customer Sales YTD,76,Jane Wilson,Greenacres,13,135978
+New Customer Sales YTD,77,Nathan Shaw,Perran Sands,13,135090
+New Customer Sales YTD,78,Lee Gregory,Combe Haven,13,129267
+New Customer Sales YTD,79,Ruth Guest,Blue Dolphin ,13,122372
+New Customer Sales YTD,80,Sarah Hendry,Thorpe Park,13,110509
+New Customer Sales YTD,81,Ian Harrison,Haggerston,13,104190
+New Customer Sales YTD,82,Leona Wilson,Craig Tara,13,99432
+New Customer Sales YTD,83,Chris Eteo,Blue Dolphin ,13,98836
+New Customer Sales YTD,84,Johnnie Bell,Craig Tara,13,94770
+New Customer Sales YTD,85,Chris Tedford ,Golden Sands,13,71206
+New Customer Sales YTD,86,Steven Burgess,Church Farm,12,186754
+New Customer Sales YTD,87,Chris Allerston,Weymouth,12,132055
+New Customer Sales YTD,88,John Smith,Hopton,12,111116
+New Customer Sales YTD,89,Amy Franklin,Wild Duck,12,105620
+New Customer Sales YTD,90,Carwyn James,Quay West,12,102225
+New Customer Sales YTD,91,Gary Ross,Haggerston,12,100830
+New Customer Sales YTD,92,Mark Payne,Seton,12,97497
+New Customer Sales YTD,93,Matt Parsons,Lydstep Beach,11,156830
+New Customer Sales YTD,94,Chaz Gross,Church Farm,11,131543
+New Customer Sales YTD,95,Kevin Grant,Blue Dolphin ,11,114292
+New Customer Sales YTD,96,Steve Reynolds,Caister,11,104189
+New Customer Sales YTD,97,Keiran Jump,Doniford Bay,11,97572
+New Customer Sales YTD,98,Keith Howard,Seashore,11,97507
+New Customer Sales YTD,99,Phil Siddle,Blue Dolphin ,11,82627
+New Customer Sales YTD,100,Gary Scott,Seashore,11,82614
+New Customer Sales YTD,101,Stuart Grant,Rockley Park,10,172294
+New Customer Sales YTD,102,Trudy Dowty,Perran Sands,10,145501
+New Customer Sales YTD,103,Steve Boardman,Quay West,10,119425
+New Customer Sales YTD,104,Wayne Birkbeck,Lakeland,10,119293
+New Customer Sales YTD,105,Neil Watson,Allhallows  ,10,108256
+New Customer Sales YTD,106,Andy Fothergill,Thorpe Park,10,100326
+New Customer Sales YTD,107,Adrian Linton,Wild Duck,10,84211
+New Customer Sales YTD,108,Kristian Evans,Presthaven,10,84026
+New Customer Sales YTD,109,James Gatens,Devon Cliffs,9,117551
+New Customer Sales YTD,110,Adam Daniel,Caister,9,105351
+New Customer Sales YTD,111,James Getens,Devon Cliffs,9,81590
+New Customer Sales YTD,112,Dean Taylor,Thorpe Park,9,74587
+New Customer Sales YTD,113,Paul Allan,Berwick  ,9,70689
+New Customer Sales YTD,114,Rose McQuaid,Caister,9,68199
+New Customer Sales YTD,115,Ron Rundle,Weymouth,8,113943
+New Customer Sales YTD,116,Mark Clegg ,Hafan y Mor,8,111310
+New Customer Sales YTD,117,Stuart Vallance ,Far Grange,8,111084
+New Customer Sales YTD,118,Lee Rubens,Littlesea,8,87194
+New Customer Sales YTD,119,James Wilson,Allhallows  ,8,77337
+New Customer Sales YTD,120,Neal Hargreaves,Orchards,8,77223
+New Customer Sales YTD,121,Dave Haggerty,Berwick  ,8,71635
+New Customer Sales YTD,122,Jonathan Feetham,Hopton,8,71095
+New Customer Sales YTD,123,Darren Griffiths,Quay West,8,63619
+New Customer Sales YTD,124,Adrian Russell,Golden Sands,8,58317
+New Customer Sales YTD,125,Ryan Park,Cala Gran,8,55600
+New Customer Sales YTD,126,Mel Cinesi ,Hafan y Mor,7,96188
+New Customer Sales YTD,127,Martin Woods,Primrose Valley,7,90371
+New Customer Sales YTD,128,Steven Plunkett,Perran Sands,7,78039
+New Customer Sales YTD,129,Rob Knight,Littlesea,7,66035
+New Customer Sales YTD,130,Loren Rafique,Combe Haven,7,58815
+New Customer Sales YTD,131,Matthew Shaw,Haggerston,7,53616
+New Customer Sales YTD,132,Martin Warmer,Rockley Park,6,128271
+New Customer Sales YTD,133,Laura Brash,Seton,6,68318
+New Customer Sales YTD,134,Angela Grey,Hopton,6,62849
+New Customer Sales YTD,135,Richard Harrison,Lakeland,6,46085
+New Customer Sales YTD,136,Trevor Bowden,Reighton Sands,5,41198
+New Customer Sales YTD,137,James Steele,Seton,5,39389
+New Customer Sales YTD,138,Gary Reed,Combe Haven,5,38159
+New Customer Sales YTD,139,Barry McBeth,Hafan y Mor,4,43046
+New Customer Sales YTD,140,Lyndsey Daniels,Combe Haven,4,40063
+New Customer Sales YTD,141,Tufail Dad,Reighton Sands,4,38817
+New Customer Sales YTD,142,Glenn Hughes,Presthaven,4,27065
+New Customer Sales YTD,143,Chris Macgregor,Seton,4,24625
+New Customer Sales YTD,144,Ashley Ocego,Hopton,4,24360
+New Customer Sales YTD,145,Dave Hedley,Haggerston,3,59739
+New Customer Sales YTD,146,Dominic Devine,Wild Duck,3,34134
+New Customer Sales YTD,147,Ashleigh Honey,Combe Haven,3,30310
+New Customer Sales YTD,148,Aaron Scantlebury,Greenacres,3,26981
+New Customer Sales YTD,149,Damian MacDonald,Presthaven,3,25049
+New Customer Sales YTD,150,Paul Whittaker,Burnham on Sea,2,73623
+New Customer Sales YTD,151,Colin Butler ,Rockley Park,2,51535
+New Customer Sales YTD,152,Arron Scantlebury,Greenacres,2,39467
+New Customer Sales YTD,153,Geoff Slater,Far Grange,2,36405
+New Customer Sales YTD,154,Danni Stephenson,Far Grange,2,30555
+New Customer Sales YTD,155,Emily Johansson ,Lydstep Beach,2,29860
+New Customer Sales YTD,156,Dai Jones,Kiln Park,2,25360
+New Customer Sales YTD,157,David Jones,Kiln Park,2,21083
+New Customer Sales YTD,158,April Picton,Burnham on Sea,2,20992
+New Customer Sales YTD,159,Chris Logue,Berwick  ,2,20391
+New Customer Sales YTD,160,Lynn Harris,Allhallows  ,2,16101
+New Customer Sales YTD,161,Laura Prior,Cala Gran,2,12448
+New Customer Sales YTD,162,Anna King,Rockley Park,1,29544
+New Customer Sales YTD,163,Danny Kaye,Far Grange,1,24053
+New Customer Sales YTD,164,Neil Evans,Lydstep Beach,1,18021
+New Customer Sales YTD,165,Murray Gissing,Thorpe Park,1,16820
+New Customer Sales YTD,166,Paul Griffin,Caister,1,14425
+New Customer Sales YTD,167,Mel Cinesi,Allhallows  ,1,12220
+New Customer Sales YTD,168,Sarah Scott,Berwick  ,1,12041
+New Customer Sales YTD,169,Paul Bingham ,Far Grange,1,11430
+New Customer Sales YTD,170,Chris Williams,Lydstep Beach,1,11201
+New Customer Sales YTD,171,Bobby Jones,Littlesea,1,11144
+New Customer Sales YTD,172,Steve Burgess,Church Farm,1,10432
+New Customer Sales YTD,173,Bernie Lawson,Seton,1,9596
+New Customer Sales YTD,174,Becky Beechy,Quay West,1,8156
+New Customer Sales YTD,175,Kayleigh Jackson,Littlesea,1,8130
+New Customer Sales YTD,176,Dean Turner,Combe Haven,1,8108
+New Customer Sales YTD,177,Jessica O'Malley,Hopton,1,7592
+New Customer Sales YTD,178,Ben Daulby,Littlesea,1,7402
+New Customer Sales YTD,179,Andy Crowther,Berwick  ,1,7208
+New Customer Sales YTD,180,Manager,Orchards,1,7049
+New Customer Sales YTD,181,Ben Brooks,Kiln Park,1,5792
+New Customer Sales YTD,182,Simon Clarke,Thorpe Park,1,5509
+New Customer Sales YTD,183,Dave Hoban,Presthaven,0,0
+New Customer Sales YTD,184,Sherryann Gould,Quay West,0,0
+New Customer Sales YTD,185,Gill Lowen,Caister,0,0
+New Customer Sales YTD,186,Kelly Lowen,Seashore,0,0
+Part Exchange Sales YTD,1,Chris Davis,Primrose Valley,35,385908
+Part Exchange Sales YTD,2,Louise Roberts,Presthaven,29,246114
+Part Exchange Sales YTD,3,Amanda Johnson ,Golden Sands,27,188123
+Part Exchange Sales YTD,4,Nick Butler,Reighton Sands,25,247067
+Part Exchange Sales YTD,5,Masum Ahmed (Ali),Burnham on Sea,24,248314
+Part Exchange Sales YTD,6,John Mills,Hopton,23,205253
+Part Exchange Sales YTD,7,Robert B Cheesman,Allhallows  ,22,213502
+Part Exchange Sales YTD,8,Jay Wilson,Marton Mere,22,205610
+Part Exchange Sales YTD,9,Ian Harrison,Haggerston,21,254350
+Part Exchange Sales YTD,10,John Smith,Hopton,21,198681
+Part Exchange Sales YTD,11,Steve Drew,Church Farm,20,318767
+Part Exchange Sales YTD,12,Carlos Perez,Cala Gran,20,147525
+Part Exchange Sales YTD,13,Carl Leech,Seashore,19,168787
+Part Exchange Sales YTD,14,Dave Medhurst,Devon Cliffs,17,215742
+Part Exchange Sales YTD,15,Stuart Anderson,Doniford Bay,17,194525
+Part Exchange Sales YTD,16,Hayden Yates,Presthaven,17,160830
+Part Exchange Sales YTD,17,Steve Wilkes,Caister,17,132357
+Part Exchange Sales YTD,18,Savvas Savva ,Devon Cliffs,16,230043
+Part Exchange Sales YTD,19,Benjy Caplan,Weymouth,16,187472
+Part Exchange Sales YTD,20,Jade Button,Wild Duck,16,153000
+Part Exchange Sales YTD,21,Angela Grey,Hopton,16,144044
+Part Exchange Sales YTD,22,Chris Newell,Kiln Park,16,129576
+Part Exchange Sales YTD,23,Alistair McNeill,Doniford Bay,15,151454
+Part Exchange Sales YTD,24,Andy Brant,Berwick  ,15,143414
+Part Exchange Sales YTD,25,Chris King,Craig Tara,15,131765
+Part Exchange Sales YTD,26,Darren Griffiths,Quay West,15,122237
+Part Exchange Sales YTD,27,Jay Earls,Greenacres,14,168653
+Part Exchange Sales YTD,28,Wayne Birkbeck,Lakeland,14,161331
+Part Exchange Sales YTD,29,Piers Palfreman,Thorpe Park,14,143395
+Part Exchange Sales YTD,30,Rose McQuaid,Caister,14,121255
+Part Exchange Sales YTD,31,Sarah Carmichael,Haggerston,13,227927
+Part Exchange Sales YTD,32,Chris Allerston,Weymouth,13,159570
+Part Exchange Sales YTD,33,Shamsul Ali,Kiln Park,13,112086
+Part Exchange Sales YTD,34,Glenn Hockings,Caister,13,109484
+Part Exchange Sales YTD,35,Louise Peart,Seton,13,98492
+Part Exchange Sales YTD,36,Ross Marks,Devon Cliffs,12,162509
+Part Exchange Sales YTD,37,Loren Rafique,Combe Haven,12,136650
+Part Exchange Sales YTD,38,Joe Dixon ,Hafan y Mor,12,135623
+Part Exchange Sales YTD,39,Russell Potter,Marton Mere,12,110232
+Part Exchange Sales YTD,40,Robert Jenion,Orchards,12,110068
+Part Exchange Sales YTD,41,Mikey O'Gillion,Cala Gran,12,94330
+Part Exchange Sales YTD,42,Steve Mitchell,Rockley Park,11,166423
+Part Exchange Sales YTD,43,Rob Knight,Littlesea,11,132978
+Part Exchange Sales YTD,44,Amy Franklin,Wild Duck,11,131210
+Part Exchange Sales YTD,45,Lee Gregory,Combe Haven,11,128945
+Part Exchange Sales YTD,46,Paul Allan,Berwick  ,11,121811
+Part Exchange Sales YTD,47,Trudy Dowty,Perran Sands,11,121751
+Part Exchange Sales YTD,48,Jez Yale,Presthaven,11,92502
+Part Exchange Sales YTD,49,Chris Tedford ,Golden Sands,11,74356
+Part Exchange Sales YTD,50,Eddy Davies,Littlesea,10,101530
+Part Exchange Sales YTD,51,Kristie Clark,Littlesea,10,97783
+Part Exchange Sales YTD,52,Paul Darroch,Craig Tara,10,87517
+Part Exchange Sales YTD,53,Ryan Kirk,Burnham on Sea,10,81643
+Part Exchange Sales YTD,54,Steve Reynolds,Caister,10,79749
+Part Exchange Sales YTD,55,Chris Macgregor,Seton,10,78903
+Part Exchange Sales YTD,56,Scott Smart,Seashore,10,66860
+Part Exchange Sales YTD,57,Mel Cinesi ,Hafan y Mor,9,134202
+Part Exchange Sales YTD,58,Richard Grieve,Haggerston,9,124986
+Part Exchange Sales YTD,59,Peter Daulton,Primrose Valley,9,110282
+Part Exchange Sales YTD,60,Mark Clegg ,Hafan y Mor,9,108611
+Part Exchange Sales YTD,61,Joe Lemon,Burnham on Sea,9,100242
+Part Exchange Sales YTD,62,Phil Siddle,Blue Dolphin ,9,97802
+Part Exchange Sales YTD,63,Jason Forbes,Primrose Valley,9,96624
+Part Exchange Sales YTD,64,Stephen Friel,Quay West,9,92550
+Part Exchange Sales YTD,65,Kevin Grant,Blue Dolphin ,9,76154
+Part Exchange Sales YTD,66,Vicky Ward,Orchards,9,70897
+Part Exchange Sales YTD,67,Matt Parsons,Lydstep Beach,8,165313
+Part Exchange Sales YTD,68,Amanda Houlden,Far Grange,8,145039
+Part Exchange Sales YTD,69,Kurt Drew ,Hafan y Mor,8,142129
+Part Exchange Sales YTD,70,Chaz Gross,Church Farm,8,131509
+Part Exchange Sales YTD,71,Jane Wilson,Greenacres,8,90494
+Part Exchange Sales YTD,72,Steven Green,Marton Mere,8,74722
+Part Exchange Sales YTD,73,Rob Bates,Weymouth,7,79150
+Part Exchange Sales YTD,74,Rod Foran,Thorpe Park,7,68932
+Part Exchange Sales YTD,75,Craig Reardon,Greenacres,7,66714
+Part Exchange Sales YTD,76,Iain Reynolds,Berwick  ,7,62355
+Part Exchange Sales YTD,77,Danny Martin,Thorpe Park,7,52717
+Part Exchange Sales YTD,78,Gary Scott,Seashore,7,50089
+Part Exchange Sales YTD,79,Tommy Walker,Lydstep Beach,6,93839
+Part Exchange Sales YTD,80,Gerry Hepher,Church Farm,6,84107
+Part Exchange Sales YTD,81,Lee Packham,Church Farm,6,74475
+Part Exchange Sales YTD,82,Trevor Bowden,Reighton Sands,6,62834
+Part Exchange Sales YTD,83,Adam Daniel,Caister,6,44026
+Part Exchange Sales YTD,84,Stuart Vallance ,Far Grange,5,92780
+Part Exchange Sales YTD,85,Barry McBeth,Hafan y Mor,5,76123
+Part Exchange Sales YTD,86,Pete Johnson,Devon Cliffs,5,67571
+Part Exchange Sales YTD,87,Stuart Grant,Rockley Park,5,61412
+Part Exchange Sales YTD,88,Richard McNulty,Craig Tara,5,52560
+Part Exchange Sales YTD,89,Chris Eteo,Blue Dolphin ,5,46347
+Part Exchange Sales YTD,90,Paul F Bingham,Far Grange,5,44607
+Part Exchange Sales YTD,91,Darron Wilson ,Reighton Sands,5,44331
+Part Exchange Sales YTD,92,Nathan Shaw,Perran Sands,5,41971
+Part Exchange Sales YTD,93,Dave O'Halloran,Hopton,5,39408
+Part Exchange Sales YTD,94,Jessica O'Malley,Hopton,5,33245
+Part Exchange Sales YTD,95,James Getens,Devon Cliffs,4,61008
+Part Exchange Sales YTD,96,Mark Stanton,Rockley Park,4,57686
+Part Exchange Sales YTD,97,Mark Northmore,Devon Cliffs,4,49688
+Part Exchange Sales YTD,98,Johnnie Bell,Craig Tara,4,45755
+Part Exchange Sales YTD,99,Ron Rundle,Weymouth,4,39098
+Part Exchange Sales YTD,100,James Wilson,Allhallows  ,4,37320
+Part Exchange Sales YTD,101,Ryan Park,Cala Gran,4,31274
+Part Exchange Sales YTD,102,Sarah Hendry,Thorpe Park,4,25818
+Part Exchange Sales YTD,103,Joel Wilcox,Lakeland,3,37650
+Part Exchange Sales YTD,104,Keiran Jump,Doniford Bay,3,30515
+Part Exchange Sales YTD,105,Dave Haggerty,Berwick  ,3,30244
+Part Exchange Sales YTD,106,Leon Stefani,Marton Mere,3,27696
+Part Exchange Sales YTD,107,Lee Rubens,Littlesea,3,25783
+Part Exchange Sales YTD,108,James Lankovits,Kiln Park,3,24558
+Part Exchange Sales YTD,109,Gary Ross,Haggerston,3,23680
+Part Exchange Sales YTD,110,Mel Cinesi,Allhallows  ,3,22760
+Part Exchange Sales YTD,111,Damian MacDonald,Presthaven,3,22714
+Part Exchange Sales YTD,112,Andy Fothergill,Thorpe Park,3,21670
+Part Exchange Sales YTD,113,Keith Howard,Seashore,3,16876
+Part Exchange Sales YTD,114,Steven Burgess,Church Farm,2,41090
+Part Exchange Sales YTD,115,Dave Staniforth,Primrose Valley,2,33768
+Part Exchange Sales YTD,116,Martin Woods,Primrose Valley,2,25324
+Part Exchange Sales YTD,117,Aaron Scantlebury,Greenacres,2,24505
+Part Exchange Sales YTD,118,Dave Hedley,Haggerston,2,24420
+Part Exchange Sales YTD,119,Neil Evans,Lydstep Beach,2,23698
+Part Exchange Sales YTD,120,Steve Boardman,Quay West,2,21512
+Part Exchange Sales YTD,121,Laura Brash,Seton,2,17473
+Part Exchange Sales YTD,122,Murray Gissing,Thorpe Park,2,17064
+Part Exchange Sales YTD,123,Neil Watson,Allhallows  ,2,16023
+Part Exchange Sales YTD,124,Danilo Freitas,Rockley Park,2,14635
+Part Exchange Sales YTD,125,Adrian Linton,Wild Duck,2,14225
+Part Exchange Sales YTD,126,Ruth Guest,Blue Dolphin ,2,11544
+Part Exchange Sales YTD,127,James Wills,Rockley Park,1,23032
+Part Exchange Sales YTD,128,Dave Hoban,Presthaven,1,22760
+Part Exchange Sales YTD,129,Steven Plunkett,Perran Sands,1,20180
+Part Exchange Sales YTD,130,Danny Kaye,Far Grange,1,18805
+Part Exchange Sales YTD,131,Sherryann Gould,Quay West,1,17823
+Part Exchange Sales YTD,132,Andrew Rees,Kiln Park,1,12918
+Part Exchange Sales YTD,133,Martin Warmer,Rockley Park,1,12190
+Part Exchange Sales YTD,134,Chris Williams,Lydstep Beach,1,12155
+Part Exchange Sales YTD,135,Emily Johansson ,Lydstep Beach,1,11940
+Part Exchange Sales YTD,136,Matthew Shaw,Haggerston,1,11914
+Part Exchange Sales YTD,137,Ben Daulby,Littlesea,1,11623
+Part Exchange Sales YTD,138,Ashleigh Honey,Combe Haven,1,11210
+Part Exchange Sales YTD,139,Jonathan Feetham,Hopton,1,10815
+Part Exchange Sales YTD,140,Gill Lowen,Caister,1,10730
+Part Exchange Sales YTD,141,Glenn Hughes,Presthaven,1,10308
+Part Exchange Sales YTD,142,Bryan Gallacher,Craig Tara,1,10076
+Part Exchange Sales YTD,143,Carwyn James,Quay West,1,10053
+Part Exchange Sales YTD,144,Adrian Russell,Golden Sands,1,9988
+Part Exchange Sales YTD,145,Joe Christopher,Presthaven,1,9870
+Part Exchange Sales YTD,146,Becky Beechy,Quay West,1,9714
+Part Exchange Sales YTD,147,Ashley Ocego,Hopton,1,9648
+Part Exchange Sales YTD,148,Neal Hargreaves,Orchards,1,9637
+Part Exchange Sales YTD,149,Laura Prior,Cala Gran,1,9416
+Part Exchange Sales YTD,150,Lynn Harris,Allhallows  ,1,8320
+Part Exchange Sales YTD,151,Tufail Dad,Reighton Sands,1,8227
+Part Exchange Sales YTD,152,Kelly Lowen,Seashore,1,8050
+Part Exchange Sales YTD,153,Andy Crowther,Berwick  ,1,8026
+Part Exchange Sales YTD,154,Leona Wilson,Craig Tara,1,7738
+Part Exchange Sales YTD,155,Fiona Gillings,Reighton Sands,1,6470
+Part Exchange Sales YTD,156,Dean Taylor,Thorpe Park,1,6294
+Part Exchange Sales YTD,157,Simon Clarke,Thorpe Park,1,3009
+Part Exchange Sales YTD,158,Manager,Orchards,0,0
+Part Exchange Sales YTD,159,Ben Brooks,Kiln Park,0,0
+Part Exchange Sales YTD,160,Kayleigh Jackson,Littlesea,0,0
+Part Exchange Sales YTD,161,Dean Turner,Combe Haven,0,0
+Part Exchange Sales YTD,162,Sarah Scott,Berwick  ,0,0
+Part Exchange Sales YTD,163,Paul Bingham ,Far Grange,0,0
+Part Exchange Sales YTD,164,Paul Griffin,Caister,0,0
+Part Exchange Sales YTD,165,Bobby Jones,Littlesea,0,0
+Part Exchange Sales YTD,166,Steve Burgess,Church Farm,0,0
+Part Exchange Sales YTD,167,Bernie Lawson,Seton,0,0
+Part Exchange Sales YTD,168,Anna King,Rockley Park,0,0
+Part Exchange Sales YTD,169,Dai Jones,Kiln Park,0,0
+Part Exchange Sales YTD,170,David Jones,Kiln Park,0,0
+Part Exchange Sales YTD,171,April Picton,Burnham on Sea,0,0
+Part Exchange Sales YTD,172,Chris Logue,Berwick  ,0,0
+Part Exchange Sales YTD,173,Dominic Devine,Wild Duck,0,0
+Part Exchange Sales YTD,174,Paul Whittaker,Burnham on Sea,0,0
+Part Exchange Sales YTD,175,Colin Butler ,Rockley Park,0,0
+Part Exchange Sales YTD,176,Arron Scantlebury,Greenacres,0,0
+Part Exchange Sales YTD,177,Geoff Slater,Far Grange,0,0
+Part Exchange Sales YTD,178,Danni Stephenson,Far Grange,0,0
+Part Exchange Sales YTD,179,Lyndsey Daniels,Combe Haven,0,0
+Part Exchange Sales YTD,180,James Steele,Seton,0,0
+Part Exchange Sales YTD,181,Gary Reed,Combe Haven,0,0
+Part Exchange Sales YTD,182,Richard Harrison,Lakeland,0,0
+Part Exchange Sales YTD,183,Mark Payne,Seton,0,0
+Part Exchange Sales YTD,184,Kristian Evans,Presthaven,0,0
+Part Exchange Sales YTD,185,James Gatens,Devon Cliffs,0,0
+Part Exchange Sales YTD,186,James Durham,Primrose Valley,0,0
+Total Sales by New Starters YTD,1,Glenn Hockings,Caister,33,258236
+Total Sales by New Starters YTD,2,Mark Northmore,Devon Cliffs,29,297883
+Total Sales by New Starters YTD,3,Scott Smart,Seashore,24,174057
+Total Sales by New Starters YTD,4,Amanda Houlden,Far Grange,23,358196
+Total Sales by New Starters YTD,5,Rod Foran,Thorpe Park,23,204871
+Total Sales by New Starters YTD,6,Joe Christopher,Presthaven,21,160603
+Total Sales by New Starters YTD,7,Nathan Shaw,Perran Sands,18,177061
+Total Sales by New Starters YTD,8,Johnnie Bell,Craig Tara,17,140525
+Total Sales by New Starters YTD,9,James Wills,Rockley Park,16,208960
+Total Sales by New Starters YTD,10,Dave Staniforth,Primrose Valley,16,161667
+Total Sales by New Starters YTD,11,Keith Howard,Seashore,14,114383
+Total Sales by New Starters YTD,12,James Getens,Devon Cliffs,13,142598
+Total Sales by New Starters YTD,13,Andy Fothergill,Thorpe Park,13,121996
+Total Sales by New Starters YTD,14,Carwyn James,Quay West,13,112277
+Total Sales by New Starters YTD,15,Neil Watson,Allhallows  ,12,124279
+Total Sales by New Starters YTD,16,Ryan Park,Cala Gran,12,86874
+Total Sales by New Starters YTD,17,Lee Rubens,Littlesea,11,112977
+Total Sales by New Starters YTD,18,Dave Haggerty,Berwick  ,11,101879
+Total Sales by New Starters YTD,19,Kristian Evans,Presthaven,10,84026
+Total Sales by New Starters YTD,20,Dean Taylor,Thorpe Park,10,80880
+Total Sales by New Starters YTD,21,James Gatens,Devon Cliffs,9,117551
+Total Sales by New Starters YTD,22,Neal Hargreaves,Orchards,9,86860
+Total Sales by New Starters YTD,23,Jonathan Feetham,Hopton,9,81911
+Total Sales by New Starters YTD,24,Steven Plunkett,Perran Sands,8,98219
+Total Sales by New Starters YTD,25,Laura Brash,Seton,8,85791
+Total Sales by New Starters YTD,26,Martin Warmer,Rockley Park,7,140461
+Total Sales by New Starters YTD,27,Aaron Scantlebury,Greenacres,5,51485
+Total Sales by New Starters YTD,28,Tufail Dad,Reighton Sands,5,47043
+Total Sales by New Starters YTD,29,James Steele,Seton,5,39389
+Total Sales by New Starters YTD,30,Gary Reed,Combe Haven,5,38159
+Total Sales by New Starters YTD,31,Ashleigh Honey,Combe Haven,4,41520
+Total Sales by New Starters YTD,32,Lyndsey Daniels,Combe Haven,4,40063
+Total Sales by New Starters YTD,33,Emily Johansson ,Lydstep Beach,3,41801
+Total Sales by New Starters YTD,34,Laura Prior,Cala Gran,3,21864
+Total Sales by New Starters YTD,35,Dai Jones,Kiln Park,2,25360
+Total Sales by New Starters YTD,36,David Jones,Kiln Park,2,21083
+Total Sales by New Starters YTD,37,Andy Crowther,Berwick  ,2,15234
+Total Sales by New Starters YTD,38,Paul Griffin,Caister,1,14425
+Total Sales by New Starters YTD,39,Sarah Scott,Berwick  ,1,12041
+Total Sales by New Starters YTD,40,Bobby Jones,Littlesea,1,11144
+Total Sales by New Starters YTD,41,Bernie Lawson,Seton,1,9596
+Total Sales by New Starters YTD,42,Kayleigh Jackson,Littlesea,1,8130
+Total Sales by New Starters YTD,43,Manager,Orchards,1,7049
+Finance Champion YTD,1,Louise Roberts,Presthaven,44,66
+Finance Champion YTD,2,Robert B Cheesman,Allhallows  ,32,50
+Finance Champion YTD,3,Amanda Johnson ,Golden Sands,31,47
+Finance Champion YTD,4,Jay Earls,Greenacres,29,61
+Finance Champion YTD,5,Louise Peart,Seton,28,60
+Finance Champion YTD,6,Ian Harrison,Haggerston,27,79
+Finance Champion YTD,7,Chris King,Craig Tara,27,79
+Finance Champion YTD,8,Peter Daulton,Primrose Valley,27,71
+Finance Champion YTD,9,Iain Reynolds,Berwick  ,26,76
+Finance Champion YTD,10,Masum Ahmed (Ali),Burnham on Sea,26,55
+Finance Champion YTD,11,Chris Davis,Primrose Valley,25,52
+Finance Champion YTD,12,Kurt Drew ,Hafan y Mor,24,80
+Finance Champion YTD,13,Hayden Yates,Presthaven,24,58
+Finance Champion YTD,14,Dave Medhurst,Devon Cliffs,24,57
+Finance Champion YTD,15,Carlos Perez,Cala Gran,24,50
+Finance Champion YTD,16,Sarah Carmichael,Haggerston,23,69
+Finance Champion YTD,17,Kristie Clark,Littlesea,23,69
+Finance Champion YTD,18,Jay Wilson,Marton Mere,23,62
+Finance Champion YTD,19,Benjy Caplan,Weymouth,22,59
+Finance Champion YTD,20,Russell Potter,Marton Mere,22,56
+Finance Champion YTD,21,Nick Butler,Reighton Sands,22,53
+Finance Champion YTD,22,John Mills,Hopton,22,51
+Finance Champion YTD,23,Chris Tedford ,Golden Sands,21,87
+Finance Champion YTD,24,Steve Wilkes,Caister,21,56
+Finance Champion YTD,25,Mark Northmore,Devon Cliffs,20,68
+Finance Champion YTD,26,Savvas Savva ,Devon Cliffs,20,66
+Finance Champion YTD,27,Steven Green,Marton Mere,20,66
+Finance Champion YTD,28,Carl Leech,Seashore,20,48
+Finance Champion YTD,29,Andy Brant,Berwick  ,19,57
+Finance Champion YTD,30,John Smith,Hopton,19,57
+Finance Champion YTD,31,Chris Newell,Kiln Park,19,54
+Finance Champion YTD,32,Stuart Anderson,Doniford Bay,18,56
+Finance Champion YTD,33,Wayne Birkbeck,Lakeland,17,70
+Finance Champion YTD,34,Ross Marks,Devon Cliffs,17,56
+Finance Champion YTD,35,Alistair McNeill,Doniford Bay,17,53
+Finance Champion YTD,36,Ryan Kirk,Burnham on Sea,17,48
+Finance Champion YTD,37,Steve Mitchell,Rockley Park,17,44
+Finance Champion YTD,38,Richard McNulty,Craig Tara,16,80
+Finance Champion YTD,39,Richard Grieve,Haggerston,16,66
+Finance Champion YTD,40,Scott Smart,Seashore,16,66
+Finance Champion YTD,41,Joe Dixon ,Hafan y Mor,16,64
+Finance Champion YTD,42,Joe Lemon,Burnham on Sea,16,55
+Finance Champion YTD,43,Shamsul Ali,Kiln Park,16,53
+Finance Champion YTD,44,Amy Franklin,Wild Duck,15,65
+Finance Champion YTD,45,Rob Bates,Weymouth,15,62
+Finance Champion YTD,46,Paul Darroch,Craig Tara,15,60
+Finance Champion YTD,47,Jez Yale,Presthaven,15,60
+Finance Champion YTD,48,Gary Scott,Seashore,14,77
+Finance Champion YTD,49,Tommy Walker,Lydstep Beach,14,70
+Finance Champion YTD,50,Rose McQuaid,Caister,14,60
+Finance Champion YTD,51,James Durham,Primrose Valley,14,53
+Finance Champion YTD,52,Jade Button,Wild Duck,14,46
+Finance Champion YTD,53,Glenn Hockings,Caister,14,42
+Finance Champion YTD,54,Vicky Ward,Orchards,14,35
+Finance Champion YTD,55,Johnnie Bell,Craig Tara,13,76
+Finance Champion YTD,56,Mikey O'Gillion,Cala Gran,13,44
+Finance Champion YTD,57,Gerry Hepher,Church Farm,12,60
+Finance Champion YTD,58,Phil Siddle,Blue Dolphin ,12,60
+Finance Champion YTD,59,Joe Christopher,Presthaven,12,57
+Finance Champion YTD,60,Danny Martin,Thorpe Park,12,54
+Finance Champion YTD,61,Craig Reardon,Greenacres,12,52
+Finance Champion YTD,62,Leon Stefani,Marton Mere,12,52
+Finance Champion YTD,63,Paul F Bingham,Far Grange,12,52
+Finance Champion YTD,64,Jason Forbes,Primrose Valley,12,40
+Finance Champion YTD,65,Steve Drew,Church Farm,12,36
+Finance Champion YTD,66,Dave Haggerty,Berwick  ,11,100
+Finance Champion YTD,67,James Getens,Devon Cliffs,11,84
+Finance Champion YTD,68,Keith Howard,Seashore,11,78
+Finance Champion YTD,69,Mel Cinesi ,Hafan y Mor,11,68
+Finance Champion YTD,70,Dave Staniforth,Primrose Valley,11,68
+Finance Champion YTD,71,Mark Clegg ,Hafan y Mor,11,64
+Finance Champion YTD,72,Sarah Hendry,Thorpe Park,11,64
+Finance Champion YTD,73,Kevin Grant,Blue Dolphin ,11,55
+Finance Champion YTD,74,Dave O'Halloran,Hopton,11,55
+Finance Champion YTD,75,Pete Johnson,Devon Cliffs,11,52
+Finance Champion YTD,76,Steve Reynolds,Caister,11,52
+Finance Champion YTD,77,Joel Wilcox,Lakeland,11,47
+Finance Champion YTD,78,Darron Wilson ,Reighton Sands,11,45
+Finance Champion YTD,79,Chris Allerston,Weymouth,11,44
+Finance Champion YTD,80,Robert Jenion,Orchards,11,31
+Finance Champion YTD,81,Leona Wilson,Craig Tara,10,71
+Finance Champion YTD,82,Adam Daniel,Caister,10,66
+Finance Champion YTD,83,Ruth Guest,Blue Dolphin ,10,66
+Finance Champion YTD,84,James Wills,Rockley Park,10,62
+Finance Champion YTD,85,Rob Knight,Littlesea,10,55
+Finance Champion YTD,86,Loren Rafique,Combe Haven,10,52
+Finance Champion YTD,87,Jane Wilson,Greenacres,10,47
+Finance Champion YTD,88,Stephen Friel,Quay West,10,43
+Finance Champion YTD,89,Darren Griffiths,Quay West,10,43
+Finance Champion YTD,90,Piers Palfreman,Thorpe Park,10,29
+Finance Champion YTD,91,Kristian Evans,Presthaven,9,90
+Finance Champion YTD,92,Chris Macgregor,Seton,9,64
+Finance Champion YTD,93,Bryan Gallacher,Craig Tara,9,60
+Finance Champion YTD,94,Gary Ross,Haggerston,9,60
+Finance Champion YTD,95,Fiona Gillings,Reighton Sands,9,52
+Finance Champion YTD,96,Chris Eteo,Blue Dolphin ,9,50
+Finance Champion YTD,97,Mark Stanton,Rockley Park,9,45
+Finance Champion YTD,98,Paul Allan,Berwick  ,9,45
+Finance Champion YTD,99,Angela Grey,Hopton,9,40
+Finance Champion YTD,100,Rod Foran,Thorpe Park,9,39
+Finance Champion YTD,101,Lee Gregory,Combe Haven,9,37
+Finance Champion YTD,102,Lee Packham,Church Farm,9,34
+Finance Champion YTD,103,Ryan Park,Cala Gran,8,66
+Finance Champion YTD,104,Keiran Jump,Doniford Bay,8,57
+Finance Champion YTD,105,James Lankovits,Kiln Park,8,42
+Finance Champion YTD,106,Neal Hargreaves,Orchards,7,77
+Finance Champion YTD,107,Lee Rubens,Littlesea,7,63
+Finance Champion YTD,108,Trevor Bowden,Reighton Sands,7,63
+Finance Champion YTD,109,Steve Boardman,Quay West,7,58
+Finance Champion YTD,110,Mark Payne,Seton,7,58
+Finance Champion YTD,111,Andrew Rees,Kiln Park,7,46
+Finance Champion YTD,112,Chaz Gross,Church Farm,7,36
+Finance Champion YTD,113,Eddy Davies,Littlesea,7,30
+Finance Champion YTD,114,Jessica O'Malley,Hopton,6,100
+Finance Champion YTD,115,Laura Brash,Seton,6,75
+Finance Champion YTD,116,Matthew Shaw,Haggerston,6,75
+Finance Champion YTD,117,Neil Watson,Allhallows  ,6,50
+Finance Champion YTD,118,James Wilson,Allhallows  ,6,50
+Finance Champion YTD,119,Adrian Linton,Wild Duck,6,50
+Finance Champion YTD,120,Stuart Vallance ,Far Grange,6,46
+Finance Champion YTD,121,Danilo Freitas,Rockley Park,6,37
+Finance Champion YTD,122,Trudy Dowty,Perran Sands,6,28
+Finance Champion YTD,123,Amanda Houlden,Far Grange,6,26
+Finance Champion YTD,124,Damian MacDonald,Presthaven,5,83
+Finance Champion YTD,125,Barry McBeth,Hafan y Mor,5,55
+Finance Champion YTD,126,James Gatens,Devon Cliffs,5,55
+Finance Champion YTD,127,Adrian Russell,Golden Sands,5,55
+Finance Champion YTD,128,Ron Rundle,Weymouth,5,41
+Finance Champion YTD,129,Andy Fothergill,Thorpe Park,5,38
+Finance Champion YTD,130,Carwyn James,Quay West,5,38
+Finance Champion YTD,131,Tufail Dad,Reighton Sands,4,80
+Finance Champion YTD,132,James Steele,Seton,4,80
+Finance Champion YTD,133,Martin Warmer,Rockley Park,4,57
+Finance Champion YTD,134,Martin Woods,Primrose Valley,4,44
+Finance Champion YTD,135,Jonathan Feetham,Hopton,4,44
+Finance Champion YTD,136,Laura Prior,Cala Gran,3,100
+Finance Champion YTD,137,Ashleigh Honey,Combe Haven,3,75
+Finance Champion YTD,138,Mel Cinesi,Allhallows  ,3,75
+Finance Champion YTD,139,Glenn Hughes,Presthaven,3,60
+Finance Champion YTD,140,Ashley Ocego,Hopton,3,60
+Finance Champion YTD,141,Richard Harrison,Lakeland,3,50
+Finance Champion YTD,142,Steven Plunkett,Perran Sands,3,37
+Finance Champion YTD,143,Steven Burgess,Church Farm,3,21
+Finance Champion YTD,144,Nathan Shaw,Perran Sands,3,16
+Finance Champion YTD,145,Matt Parsons,Lydstep Beach,3,15
+Finance Champion YTD,146,David Jones,Kiln Park,2,100
+Finance Champion YTD,147,Ben Daulby,Littlesea,2,100
+Finance Champion YTD,148,Becky Beechy,Quay West,2,100
+Finance Champion YTD,149,Dominic Devine,Wild Duck,2,66
+Finance Champion YTD,150,Lynn Harris,Allhallows  ,2,66
+Finance Champion YTD,151,Dave Hedley,Haggerston,2,40
+Finance Champion YTD,152,Gary Reed,Combe Haven,2,40
+Finance Champion YTD,153,Dean Taylor,Thorpe Park,2,20
+Finance Champion YTD,154,Stuart Grant,Rockley Park,2,13
+Finance Champion YTD,155,Dave Hoban,Presthaven,1,100
+Finance Champion YTD,156,Sherryann Gould,Quay West,1,100
+Finance Champion YTD,157,Sarah Scott,Berwick  ,1,100
+Finance Champion YTD,158,Bobby Jones,Littlesea,1,100
+Finance Champion YTD,159,Gill Lowen,Caister,1,100
+Finance Champion YTD,160,Steve Burgess,Church Farm,1,100
+Finance Champion YTD,161,Bernie Lawson,Seton,1,100
+Finance Champion YTD,162,Kayleigh Jackson,Littlesea,1,100
+Finance Champion YTD,163,Dean Turner,Combe Haven,1,100
+Finance Champion YTD,164,Kelly Lowen,Seashore,1,100
+Finance Champion YTD,165,Manager,Orchards,1,100
+Finance Champion YTD,166,Arron Scantlebury,Greenacres,1,50
+Finance Champion YTD,167,Geoff Slater,Far Grange,1,50
+Finance Champion YTD,168,Danni Stephenson,Far Grange,1,50
+Finance Champion YTD,169,Dai Jones,Kiln Park,1,50
+Finance Champion YTD,170,Chris Williams,Lydstep Beach,1,50
+Finance Champion YTD,171,April Picton,Burnham on Sea,1,50
+Finance Champion YTD,172,Emily Johansson ,Lydstep Beach,1,33
+Finance Champion YTD,173,Neil Evans,Lydstep Beach,1,33
+Finance Champion YTD,174,Murray Gissing,Thorpe Park,1,33
+Finance Champion YTD,175,Lyndsey Daniels,Combe Haven,1,25
+Finance Champion YTD,176,Aaron Scantlebury,Greenacres,1,20
+Finance Champion YTD,177,Paul Whittaker,Burnham on Sea,0,0
+Finance Champion YTD,178,Colin Butler ,Rockley Park,0,0
+Finance Champion YTD,179,Danny Kaye,Far Grange,0,0
+Finance Champion YTD,180,Chris Logue,Berwick  ,0,0
+Finance Champion YTD,181,Andy Crowther,Berwick  ,0,0
+Finance Champion YTD,182,Simon Clarke,Thorpe Park,0,0
+Finance Champion YTD,183,Anna King,Rockley Park,0,0
+Finance Champion YTD,184,Paul Griffin,Caister,0,0
+Finance Champion YTD,185,Paul Bingham ,Far Grange,0,0
+Finance Champion YTD,186,Ben Brooks,Kiln Park,0,0
+GLA Champion YTD,1,Dave Medhurst,Devon Cliffs,27,64
+GLA Champion YTD,2,Jay Wilson,Marton Mere,25,67
+GLA Champion YTD,3,Benjy Caplan,Weymouth,19,51
+GLA Champion YTD,4,Carlos Perez,Cala Gran,18,37
+GLA Champion YTD,5,Chris Davis,Primrose Valley,17,35
+GLA Champion YTD,6,Amanda Johnson ,Golden Sands,17,26
+GLA Champion YTD,7,Louise Roberts,Presthaven,17,25
+GLA Champion YTD,8,Peter Daulton,Primrose Valley,16,42
+GLA Champion YTD,9,Ross Marks,Devon Cliffs,15,50
+GLA Champion YTD,10,Russell Potter,Marton Mere,15,38
+GLA Champion YTD,11,Mark Northmore,Devon Cliffs,14,48
+GLA Champion YTD,12,Alistair McNeill,Doniford Bay,14,43
+GLA Champion YTD,13,Ian Harrison,Haggerston,14,41
+GLA Champion YTD,14,Ryan Kirk,Burnham on Sea,14,40
+GLA Champion YTD,15,Chris Newell,Kiln Park,14,40
+GLA Champion YTD,16,John Mills,Hopton,14,32
+GLA Champion YTD,17,Savvas Savva ,Devon Cliffs,13,43
+GLA Champion YTD,18,Jade Button,Wild Duck,13,43
+GLA Champion YTD,19,Masum Ahmed (Ali),Burnham on Sea,12,25
+GLA Champion YTD,20,Nathan Shaw,Perran Sands,11,61
+GLA Champion YTD,21,Rob Bates,Weymouth,11,45
+GLA Champion YTD,22,Scott Smart,Seashore,11,45
+GLA Champion YTD,23,Kristie Clark,Littlesea,11,33
+GLA Champion YTD,24,Mark Clegg ,Hafan y Mor,10,58
+GLA Champion YTD,25,Gary Scott,Seashore,10,55
+GLA Champion YTD,26,Gerry Hepher,Church Farm,10,50
+GLA Champion YTD,27,Kurt Drew ,Hafan y Mor,10,33
+GLA Champion YTD,28,Jason Forbes,Primrose Valley,10,33
+GLA Champion YTD,29,Shamsul Ali,Kiln Park,10,33
+GLA Champion YTD,30,Steven Green,Marton Mere,10,33
+GLA Champion YTD,31,Carl Leech,Seashore,10,24
+GLA Champion YTD,32,Hayden Yates,Presthaven,10,24
+GLA Champion YTD,33,Leona Wilson,Craig Tara,9,64
+GLA Champion YTD,34,James Lankovits,Kiln Park,9,47
+GLA Champion YTD,35,Trudy Dowty,Perran Sands,9,42
+GLA Champion YTD,36,Eddy Davies,Littlesea,9,39
+GLA Champion YTD,37,Craig Reardon,Greenacres,9,39
+GLA Champion YTD,38,Joe Lemon,Burnham on Sea,9,31
+GLA Champion YTD,39,Sarah Carmichael,Haggerston,9,27
+GLA Champion YTD,40,Glenn Hockings,Caister,9,27
+GLA Champion YTD,41,Steve Mitchell,Rockley Park,9,23
+GLA Champion YTD,42,Trevor Bowden,Reighton Sands,8,72
+GLA Champion YTD,43,James Getens,Devon Cliffs,8,61
+GLA Champion YTD,44,Pete Johnson,Devon Cliffs,8,38
+GLA Champion YTD,45,Leon Stefani,Marton Mere,8,34
+GLA Champion YTD,46,Lee Gregory,Combe Haven,8,33
+GLA Champion YTD,47,Chris Tedford ,Golden Sands,8,33
+GLA Champion YTD,48,Chris Allerston,Weymouth,8,32
+GLA Champion YTD,49,Jez Yale,Presthaven,8,32
+GLA Champion YTD,50,Lee Packham,Church Farm,8,30
+GLA Champion YTD,51,James Durham,Primrose Valley,8,30
+GLA Champion YTD,52,Mikey O'Gillion,Cala Gran,8,27
+GLA Champion YTD,53,Louise Peart,Seton,8,17
+GLA Champion YTD,54,Adam Daniel,Caister,7,46
+GLA Champion YTD,55,Rod Foran,Thorpe Park,7,30
+GLA Champion YTD,56,Joe Dixon ,Hafan y Mor,7,28
+GLA Champion YTD,57,Andy Brant,Berwick  ,7,21
+GLA Champion YTD,58,Nick Butler,Reighton Sands,7,17
+GLA Champion YTD,59,Keiran Jump,Doniford Bay,6,42
+GLA Champion YTD,60,Keith Howard,Seashore,6,42
+GLA Champion YTD,61,Gary Ross,Haggerston,6,40
+GLA Champion YTD,62,Mel Cinesi ,Hafan y Mor,6,37
+GLA Champion YTD,63,Danilo Freitas,Rockley Park,6,37
+GLA Champion YTD,64,Chris Eteo,Blue Dolphin ,6,33
+GLA Champion YTD,65,Loren Rafique,Combe Haven,6,31
+GLA Champion YTD,66,Paul Allan,Berwick  ,6,30
+GLA Champion YTD,67,Jane Wilson,Greenacres,6,28
+GLA Champion YTD,68,Amy Franklin,Wild Duck,6,26
+GLA Champion YTD,69,Richard Grieve,Haggerston,6,25
+GLA Champion YTD,70,Steve Wilkes,Caister,6,16
+GLA Champion YTD,71,Steven Plunkett,Perran Sands,5,62
+GLA Champion YTD,72,James Gatens,Devon Cliffs,5,55
+GLA Champion YTD,73,Dave Haggerty,Berwick  ,5,45
+GLA Champion YTD,74,Stuart Grant,Rockley Park,5,33
+GLA Champion YTD,75,Matt Parsons,Lydstep Beach,5,26
+GLA Champion YTD,76,Chaz Gross,Church Farm,5,26
+GLA Champion YTD,77,Steve Reynolds,Caister,5,23
+GLA Champion YTD,78,Danny Martin,Thorpe Park,5,22
+GLA Champion YTD,79,Paul F Bingham,Far Grange,5,21
+GLA Champion YTD,80,Wayne Birkbeck,Lakeland,5,20
+GLA Champion YTD,81,Steve Drew,Church Farm,5,15
+GLA Champion YTD,82,Stuart Anderson,Doniford Bay,5,15
+GLA Champion YTD,83,Robert B Cheesman,Allhallows  ,5,7
+GLA Champion YTD,84,Adrian Linton,Wild Duck,4,33
+GLA Champion YTD,85,Steven Burgess,Church Farm,4,28
+GLA Champion YTD,86,Ruth Guest,Blue Dolphin ,4,26
+GLA Champion YTD,87,Dave Staniforth,Primrose Valley,4,25
+GLA Champion YTD,88,Fiona Gillings,Reighton Sands,4,23
+GLA Champion YTD,89,Rob Knight,Littlesea,4,22
+GLA Champion YTD,90,Mark Stanton,Rockley Park,4,20
+GLA Champion YTD,91,Tommy Walker,Lydstep Beach,4,20
+GLA Champion YTD,92,Phil Siddle,Blue Dolphin ,4,20
+GLA Champion YTD,93,Joe Christopher,Presthaven,4,19
+GLA Champion YTD,94,Angela Grey,Hopton,4,18
+GLA Champion YTD,95,Joel Wilcox,Lakeland,4,17
+GLA Champion YTD,96,Rose McQuaid,Caister,4,17
+GLA Champion YTD,97,Paul Darroch,Craig Tara,4,16
+GLA Champion YTD,98,Chris King,Craig Tara,4,11
+GLA Champion YTD,99,Iain Reynolds,Berwick  ,4,11
+GLA Champion YTD,100,Vicky Ward,Orchards,4,10
+GLA Champion YTD,101,Tufail Dad,Reighton Sands,3,60
+GLA Champion YTD,102,Damian MacDonald,Presthaven,3,50
+GLA Champion YTD,103,Jessica O'Malley,Hopton,3,50
+GLA Champion YTD,104,Martin Woods,Primrose Valley,3,33
+GLA Champion YTD,105,Neal Hargreaves,Orchards,3,33
+GLA Champion YTD,106,Adrian Russell,Golden Sands,3,33
+GLA Champion YTD,107,Ron Rundle,Weymouth,3,25
+GLA Champion YTD,108,Steve Boardman,Quay West,3,25
+GLA Champion YTD,109,Mark Payne,Seton,3,25
+GLA Champion YTD,110,Ryan Park,Cala Gran,3,25
+GLA Champion YTD,111,Andrew Rees,Kiln Park,3,20
+GLA Champion YTD,112,James Wills,Rockley Park,3,18
+GLA Champion YTD,113,Johnnie Bell,Craig Tara,3,17
+GLA Champion YTD,114,John Smith,Hopton,3,9
+GLA Champion YTD,115,Jay Earls,Greenacres,3,6
+GLA Champion YTD,116,Lyndsey Daniels,Combe Haven,2,50
+GLA Champion YTD,117,Mel Cinesi,Allhallows  ,2,50
+GLA Champion YTD,118,Gary Reed,Combe Haven,2,40
+GLA Champion YTD,119,Glenn Hughes,Presthaven,2,40
+GLA Champion YTD,120,Ashley Ocego,Hopton,2,40
+GLA Champion YTD,121,Matthew Shaw,Haggerston,2,25
+GLA Champion YTD,122,Lee Rubens,Littlesea,2,18
+GLA Champion YTD,123,Neil Watson,Allhallows  ,2,16
+GLA Champion YTD,124,Chris Macgregor,Seton,2,14
+GLA Champion YTD,125,Sarah Hendry,Thorpe Park,2,11
+GLA Champion YTD,126,Richard McNulty,Craig Tara,2,10
+GLA Champion YTD,127,Stephen Friel,Quay West,2,8
+GLA Champion YTD,128,Darren Griffiths,Quay West,2,8
+GLA Champion YTD,129,Sarah Scott,Berwick  ,1,100
+GLA Champion YTD,130,Bobby Jones,Littlesea,1,100
+GLA Champion YTD,131,Kayleigh Jackson,Littlesea,1,100
+GLA Champion YTD,132,Dean Turner,Combe Haven,1,100
+GLA Champion YTD,133,Kelly Lowen,Seashore,1,100
+GLA Champion YTD,134,David Jones,Kiln Park,1,50
+GLA Champion YTD,135,Dominic Devine,Wild Duck,1,33
+GLA Champion YTD,136,Murray Gissing,Thorpe Park,1,33
+GLA Champion YTD,137,Lynn Harris,Allhallows  ,1,33
+GLA Champion YTD,138,Dave Hedley,Haggerston,1,20
+GLA Champion YTD,139,Aaron Scantlebury,Greenacres,1,20
+GLA Champion YTD,140,Richard Harrison,Lakeland,1,16
+GLA Champion YTD,141,Martin Warmer,Rockley Park,1,14
+GLA Champion YTD,142,Barry McBeth,Hafan y Mor,1,11
+GLA Champion YTD,143,Jonathan Feetham,Hopton,1,11
+GLA Champion YTD,144,Kristian Evans,Presthaven,1,10
+GLA Champion YTD,145,James Wilson,Allhallows  ,1,8
+GLA Champion YTD,146,Andy Fothergill,Thorpe Park,1,7
+GLA Champion YTD,147,Bryan Gallacher,Craig Tara,1,6
+GLA Champion YTD,148,Kevin Grant,Blue Dolphin ,1,5
+GLA Champion YTD,149,Dave O'Halloran,Hopton,1,5
+GLA Champion YTD,150,Robert Jenion,Orchards,1,2
+GLA Champion YTD,151,Piers Palfreman,Thorpe Park,1,2
+GLA Champion YTD,152,Darron Wilson ,Reighton Sands,0,0
+GLA Champion YTD,153,Amanda Houlden,Far Grange,0,0
+GLA Champion YTD,154,Stuart Vallance ,Far Grange,0,0
+GLA Champion YTD,155,Carwyn James,Quay West,0,0
+GLA Champion YTD,156,Dean Taylor,Thorpe Park,0,0
+GLA Champion YTD,157,Laura Brash,Seton,0,0
+GLA Champion YTD,158,James Steele,Seton,0,0
+GLA Champion YTD,159,Ashleigh Honey,Combe Haven,0,0
+GLA Champion YTD,160,Emily Johansson ,Lydstep Beach,0,0
+GLA Champion YTD,161,Neil Evans,Lydstep Beach,0,0
+GLA Champion YTD,162,Laura Prior,Cala Gran,0,0
+GLA Champion YTD,163,Paul Whittaker,Burnham on Sea,0,0
+GLA Champion YTD,164,Colin Butler ,Rockley Park,0,0
+GLA Champion YTD,165,Danny Kaye,Far Grange,0,0
+GLA Champion YTD,166,Arron Scantlebury,Greenacres,0,0
+GLA Champion YTD,167,Geoff Slater,Far Grange,0,0
+GLA Champion YTD,168,Danni Stephenson,Far Grange,0,0
+GLA Champion YTD,169,Dai Jones,Kiln Park,0,0
+GLA Champion YTD,170,Chris Williams,Lydstep Beach,0,0
+GLA Champion YTD,171,April Picton,Burnham on Sea,0,0
+GLA Champion YTD,172,Chris Logue,Berwick  ,0,0
+GLA Champion YTD,173,Ben Daulby,Littlesea,0,0
+GLA Champion YTD,174,Becky Beechy,Quay West,0,0
+GLA Champion YTD,175,Andy Crowther,Berwick  ,0,0
+GLA Champion YTD,176,Simon Clarke,Thorpe Park,0,0
+GLA Champion YTD,177,Anna King,Rockley Park,0,0
+GLA Champion YTD,178,Dave Hoban,Presthaven,0,0
+GLA Champion YTD,179,Sherryann Gould,Quay West,0,0
+GLA Champion YTD,180,Paul Griffin,Caister,0,0
+GLA Champion YTD,181,Paul Bingham ,Far Grange,0,0
+GLA Champion YTD,182,Gill Lowen,Caister,0,0
+GLA Champion YTD,183,Steve Burgess,Church Farm,0,0
+GLA Champion YTD,184,Bernie Lawson,Seton,0,0
+GLA Champion YTD,185,Manager,Orchards,0,0
+GLA Champion YTD,186,Ben Brooks,Kiln Park,0,0
+Holiday Maker Sales YTD,1,Peter Daulton,Primrose Valley,13,
+Holiday Maker Sales YTD,2,Steven Green,Marton Mere,12,
+Holiday Maker Sales YTD,3,Amanda Johnson ,Golden Sands,9,
+Holiday Maker Sales YTD,4,Carl Leech,Seashore,9,
+Holiday Maker Sales YTD,5,Russell Potter,Marton Mere,9,
+Holiday Maker Sales YTD,6,Benjy Caplan,Weymouth,9,
+Holiday Maker Sales YTD,7,Lee Gregory,Combe Haven,9,
+Holiday Maker Sales YTD,8,Dave Staniforth,Primrose Valley,9,
+Holiday Maker Sales YTD,9,Joel Wilcox,Lakeland,8,
+Holiday Maker Sales YTD,10,Gary Ross,Haggerston,8,
+Holiday Maker Sales YTD,11,Carlos Perez,Cala Gran,7,
+Holiday Maker Sales YTD,12,Louise Peart,Seton,7,
+Holiday Maker Sales YTD,13,Andy Brant,Berwick  ,7,
+Holiday Maker Sales YTD,14,Jason Forbes,Primrose Valley,7,
+Holiday Maker Sales YTD,15,Leon Stefani,Marton Mere,7,
+Holiday Maker Sales YTD,16,Dave Medhurst,Devon Cliffs,6,
+Holiday Maker Sales YTD,17,Vicky Ward,Orchards,6,
+Holiday Maker Sales YTD,18,Steve Wilkes,Caister,6,
+Holiday Maker Sales YTD,19,Chris Newell,Kiln Park,6,
+Holiday Maker Sales YTD,20,Iain Reynolds,Berwick  ,6,
+Holiday Maker Sales YTD,21,Glenn Hockings,Caister,6,
+Holiday Maker Sales YTD,22,Kurt Drew ,Hafan y Mor,6,
+Holiday Maker Sales YTD,23,James Durham,Primrose Valley,6,
+Holiday Maker Sales YTD,24,Joe Dixon ,Hafan y Mor,6,
+Holiday Maker Sales YTD,25,Richard Grieve,Haggerston,6,
+Holiday Maker Sales YTD,26,Rod Foran,Thorpe Park,6,
+Holiday Maker Sales YTD,27,Gary Scott,Seashore,6,
+Holiday Maker Sales YTD,28,Louise Roberts,Presthaven,5,
+Holiday Maker Sales YTD,29,Jay Wilson,Marton Mere,5,
+Holiday Maker Sales YTD,30,Sarah Carmichael,Haggerston,5,
+Holiday Maker Sales YTD,31,Mark Northmore,Devon Cliffs,5,
+Holiday Maker Sales YTD,32,Mikey O'Gillion,Cala Gran,5,
+Holiday Maker Sales YTD,33,Scott Smart,Seashore,5,
+Holiday Maker Sales YTD,34,Stephen Friel,Quay West,5,
+Holiday Maker Sales YTD,35,Sarah Hendry,Thorpe Park,5,
+Holiday Maker Sales YTD,36,Keith Howard,Seashore,5,
+Holiday Maker Sales YTD,37,Robert B Cheesman,Allhallows  ,4,
+Holiday Maker Sales YTD,38,Masum Ahmed (Ali),Burnham on Sea,4,
+Holiday Maker Sales YTD,39,Ian Harrison,Haggerston,4,
+Holiday Maker Sales YTD,40,Stuart Anderson,Doniford Bay,4,
+Holiday Maker Sales YTD,41,Wayne Birkbeck,Lakeland,4,
+Holiday Maker Sales YTD,42,Paul F Bingham,Far Grange,4,
+Holiday Maker Sales YTD,43,Jane Wilson,Greenacres,4,
+Holiday Maker Sales YTD,44,Steve Reynolds,Caister,4,
+Holiday Maker Sales YTD,45,Phil Siddle,Blue Dolphin ,4,
+Holiday Maker Sales YTD,46,Dave O'Halloran,Hopton,4,
+Holiday Maker Sales YTD,47,Mark Clegg ,Hafan y Mor,4,
+Holiday Maker Sales YTD,48,Stuart Grant,Rockley Park,4,
+Holiday Maker Sales YTD,49,Ruth Guest,Blue Dolphin ,4,
+Holiday Maker Sales YTD,50,Carwyn James,Quay West,4,
+Holiday Maker Sales YTD,51,Lee Rubens,Littlesea,4,
+Holiday Maker Sales YTD,52,Martin Woods,Primrose Valley,4,
+Holiday Maker Sales YTD,53,Jonathan Feetham,Hopton,4,
+Holiday Maker Sales YTD,54,Jay Earls,Greenacres,3,
+Holiday Maker Sales YTD,55,Hayden Yates,Presthaven,3,
+Holiday Maker Sales YTD,56,Ryan Kirk,Burnham on Sea,3,
+Holiday Maker Sales YTD,57,Piers Palfreman,Thorpe Park,3,
+Holiday Maker Sales YTD,58,Kristie Clark,Littlesea,3,
+Holiday Maker Sales YTD,59,John Smith,Hopton,3,
+Holiday Maker Sales YTD,60,Ross Marks,Devon Cliffs,3,
+Holiday Maker Sales YTD,61,Lee Packham,Church Farm,3,
+Holiday Maker Sales YTD,62,Paul Darroch,Craig Tara,3,
+Holiday Maker Sales YTD,63,Jez Yale,Presthaven,3,
+Holiday Maker Sales YTD,64,Chris Tedford ,Golden Sands,3,
+Holiday Maker Sales YTD,65,Eddy Davies,Littlesea,3,
+Holiday Maker Sales YTD,66,Amy Franklin,Wild Duck,3,
+Holiday Maker Sales YTD,67,Joe Christopher,Presthaven,3,
+Holiday Maker Sales YTD,68,Gerry Hepher,Church Farm,3,
+Holiday Maker Sales YTD,69,Kevin Grant,Blue Dolphin ,3,
+Holiday Maker Sales YTD,70,James Lankovits,Kiln Park,3,
+Holiday Maker Sales YTD,71,Nathan Shaw,Perran Sands,3,
+Holiday Maker Sales YTD,72,Fiona Gillings,Reighton Sands,3,
+Holiday Maker Sales YTD,73,Adam Daniel,Caister,3,
+Holiday Maker Sales YTD,74,Bryan Gallacher,Craig Tara,3,
+Holiday Maker Sales YTD,75,Leona Wilson,Craig Tara,3,
+Holiday Maker Sales YTD,76,Ryan Park,Cala Gran,3,
+Holiday Maker Sales YTD,77,Dave Hedley,Haggerston,3,
+Holiday Maker Sales YTD,78,John Mills,Hopton,2,
+Holiday Maker Sales YTD,79,Nick Butler,Reighton Sands,2,
+Holiday Maker Sales YTD,80,Steve Drew,Church Farm,2,
+Holiday Maker Sales YTD,81,Alistair McNeill,Doniford Bay,2,
+Holiday Maker Sales YTD,82,Savvas Savva ,Devon Cliffs,2,
+Holiday Maker Sales YTD,83,Jade Button,Wild Duck,2,
+Holiday Maker Sales YTD,84,Rob Bates,Weymouth,2,
+Holiday Maker Sales YTD,85,Darron Wilson ,Reighton Sands,2,
+Holiday Maker Sales YTD,86,Craig Reardon,Greenacres,2,
+Holiday Maker Sales YTD,87,Rose McQuaid,Caister,2,
+Holiday Maker Sales YTD,88,Angela Grey,Hopton,2,
+Holiday Maker Sales YTD,89,Rob Knight,Littlesea,2,
+Holiday Maker Sales YTD,90,Johnnie Bell,Craig Tara,2,
+Holiday Maker Sales YTD,91,Mel Cinesi ,Hafan y Mor,2,
+Holiday Maker Sales YTD,92,Danilo Freitas,Rockley Park,2,
+Holiday Maker Sales YTD,93,Andrew Rees,Kiln Park,2,
+Holiday Maker Sales YTD,94,Keiran Jump,Doniford Bay,2,
+Holiday Maker Sales YTD,95,Chris Macgregor,Seton,2,
+Holiday Maker Sales YTD,96,Ron Rundle,Weymouth,2,
+Holiday Maker Sales YTD,97,Steve Boardman,Quay West,2,
+Holiday Maker Sales YTD,98,Adrian Linton,Wild Duck,2,
+Holiday Maker Sales YTD,99,Mark Payne,Seton,2,
+Holiday Maker Sales YTD,100,Dean Taylor,Thorpe Park,2,
+Holiday Maker Sales YTD,101,Barry McBeth,Hafan y Mor,2,
+Holiday Maker Sales YTD,102,Matthew Shaw,Haggerston,2,
+Holiday Maker Sales YTD,103,Aaron Scantlebury,Greenacres,2,
+Holiday Maker Sales YTD,104,Gary Reed,Combe Haven,2,
+Holiday Maker Sales YTD,105,Chris Davis,Primrose Valley,1,
+Holiday Maker Sales YTD,106,Steve Mitchell,Rockley Park,1,
+Holiday Maker Sales YTD,107,Shamsul Ali,Kiln Park,1,
+Holiday Maker Sales YTD,108,Joe Lemon,Burnham on Sea,1,
+Holiday Maker Sales YTD,109,Darren Griffiths,Quay West,1,
+Holiday Maker Sales YTD,110,Pete Johnson,Devon Cliffs,1,
+Holiday Maker Sales YTD,111,Mark Stanton,Rockley Park,1,
+Holiday Maker Sales YTD,112,Tommy Walker,Lydstep Beach,1,
+Holiday Maker Sales YTD,113,Richard McNulty,Craig Tara,1,
+Holiday Maker Sales YTD,114,Paul Allan,Berwick  ,1,
+Holiday Maker Sales YTD,115,Chaz Gross,Church Farm,1,
+Holiday Maker Sales YTD,116,Loren Rafique,Combe Haven,1,
+Holiday Maker Sales YTD,117,Chris Eteo,Blue Dolphin ,1,
+Holiday Maker Sales YTD,118,James Wills,Rockley Park,1,
+Holiday Maker Sales YTD,119,Andy Fothergill,Thorpe Park,1,
+Holiday Maker Sales YTD,120,Neil Watson,Allhallows  ,1,
+Holiday Maker Sales YTD,121,James Wilson,Allhallows  ,1,
+Holiday Maker Sales YTD,122,Trevor Bowden,Reighton Sands,1,
+Holiday Maker Sales YTD,123,Kristian Evans,Presthaven,1,
+Holiday Maker Sales YTD,124,James Gatens,Devon Cliffs,1,
+Holiday Maker Sales YTD,125,Neal Hargreaves,Orchards,1,
+Holiday Maker Sales YTD,126,Adrian Russell,Golden Sands,1,
+Holiday Maker Sales YTD,127,Steven Plunkett,Perran Sands,1,
+Holiday Maker Sales YTD,128,Richard Harrison,Lakeland,1,
+Holiday Maker Sales YTD,129,Glenn Hughes,Presthaven,1,
+Holiday Maker Sales YTD,130,Ashley Ocego,Hopton,1,
+Holiday Maker Sales YTD,131,Ashleigh Honey,Combe Haven,1,
+Holiday Maker Sales YTD,132,Lyndsey Daniels,Combe Haven,1,
+Holiday Maker Sales YTD,133,Murray Gissing,Thorpe Park,1,
+Holiday Maker Sales YTD,134,Laura Prior,Cala Gran,1,
+Holiday Maker Sales YTD,135,Chris Logue,Berwick  ,1,
+Holiday Maker Sales YTD,136,Ben Daulby,Littlesea,1,
+Holiday Maker Sales YTD,137,Kayleigh Jackson,Littlesea,1,
+Holiday Maker Sales YTD,138,Manager,Orchards,1,
+Holiday Maker Sales YTD,139,Robert Jenion,Orchards,0,
+Holiday Maker Sales YTD,140,Chris King,Craig Tara,0,
+Holiday Maker Sales YTD,141,Chris Allerston,Weymouth,0,
+Holiday Maker Sales YTD,142,Amanda Houlden,Far Grange,0,
+Holiday Maker Sales YTD,143,Danny Martin,Thorpe Park,0,
+Holiday Maker Sales YTD,144,Trudy Dowty,Perran Sands,0,
+Holiday Maker Sales YTD,145,Matt Parsons,Lydstep Beach,0,
+Holiday Maker Sales YTD,146,Steven Burgess,Church Farm,0,
+Holiday Maker Sales YTD,147,Stuart Vallance ,Far Grange,0,
+Holiday Maker Sales YTD,148,James Getens,Devon Cliffs,0,
+Holiday Maker Sales YTD,149,Dave Haggerty,Berwick  ,0,
+Holiday Maker Sales YTD,150,Laura Brash,Seton,0,
+Holiday Maker Sales YTD,151,Martin Warmer,Rockley Park,0,
+Holiday Maker Sales YTD,152,Damian MacDonald,Presthaven,0,
+Holiday Maker Sales YTD,153,Jessica O'Malley,Hopton,0,
+Holiday Maker Sales YTD,154,Tufail Dad,Reighton Sands,0,
+Holiday Maker Sales YTD,155,James Steele,Seton,0,
+Holiday Maker Sales YTD,156,Mel Cinesi,Allhallows  ,0,
+Holiday Maker Sales YTD,157,Emily Johansson ,Lydstep Beach,0,
+Holiday Maker Sales YTD,158,Neil Evans,Lydstep Beach,0,
+Holiday Maker Sales YTD,159,Dominic Devine,Wild Duck,0,
+Holiday Maker Sales YTD,160,Lynn Harris,Allhallows  ,0,
+Holiday Maker Sales YTD,161,Paul Whittaker,Burnham on Sea,0,
+Holiday Maker Sales YTD,162,Colin Butler ,Rockley Park,0,
+Holiday Maker Sales YTD,163,Danny Kaye,Far Grange,0,
+Holiday Maker Sales YTD,164,Arron Scantlebury,Greenacres,0,
+Holiday Maker Sales YTD,165,Geoff Slater,Far Grange,0,
+Holiday Maker Sales YTD,166,Danni Stephenson,Far Grange,0,
+Holiday Maker Sales YTD,167,Dai Jones,Kiln Park,0,
+Holiday Maker Sales YTD,168,Chris Williams,Lydstep Beach,0,
+Holiday Maker Sales YTD,169,David Jones,Kiln Park,0,
+Holiday Maker Sales YTD,170,April Picton,Burnham on Sea,0,
+Holiday Maker Sales YTD,171,Becky Beechy,Quay West,0,
+Holiday Maker Sales YTD,172,Andy Crowther,Berwick  ,0,
+Holiday Maker Sales YTD,173,Simon Clarke,Thorpe Park,0,
+Holiday Maker Sales YTD,174,Anna King,Rockley Park,0,
+Holiday Maker Sales YTD,175,Dave Hoban,Presthaven,0,
+Holiday Maker Sales YTD,176,Sherryann Gould,Quay West,0,
+Holiday Maker Sales YTD,177,Paul Griffin,Caister,0,
+Holiday Maker Sales YTD,178,Sarah Scott,Berwick  ,0,
+Holiday Maker Sales YTD,179,Paul Bingham ,Far Grange,0,
+Holiday Maker Sales YTD,180,Bobby Jones,Littlesea,0,
+Holiday Maker Sales YTD,181,Gill Lowen,Caister,0,
+Holiday Maker Sales YTD,182,Steve Burgess,Church Farm,0,
+Holiday Maker Sales YTD,183,Bernie Lawson,Seton,0,
+Holiday Maker Sales YTD,184,Dean Turner,Combe Haven,0,
+Holiday Maker Sales YTD,185,Kelly Lowen,Seashore,0,
+Holiday Maker Sales YTD,186,Ben Brooks,Kiln Park,0,
+Referrals YTD,1,Robert B Cheesman,Allhallows  ,21,
+Referrals YTD,2,Louise Roberts,Presthaven,12,
+Referrals YTD,3,John Mills,Hopton,12,
+Referrals YTD,4,Jay Earls,Greenacres,7,
+Referrals YTD,5,Robert Jenion,Orchards,7,
+Referrals YTD,6,Iain Reynolds,Berwick  ,7,
+Referrals YTD,7,Piers Palfreman,Thorpe Park,7,
+Referrals YTD,8,Alistair McNeill,Doniford Bay,7,
+Referrals YTD,9,Shamsul Ali,Kiln Park,7,
+Referrals YTD,10,Darron Wilson ,Reighton Sands,7,
+Referrals YTD,11,Darren Griffiths,Quay West,7,
+Referrals YTD,12,Hayden Yates,Presthaven,6,
+Referrals YTD,13,Russell Potter,Marton Mere,6,
+Referrals YTD,14,Kurt Drew ,Hafan y Mor,6,
+Referrals YTD,15,Steven Green,Marton Mere,6,
+Referrals YTD,16,Joe Christopher,Presthaven,6,
+Referrals YTD,17,Tommy Walker,Lydstep Beach,6,
+Referrals YTD,18,Amanda Johnson ,Golden Sands,5,
+Referrals YTD,19,Louise Peart,Seton,5,
+Referrals YTD,20,Vicky Ward,Orchards,5,
+Referrals YTD,21,John Smith,Hopton,5,
+Referrals YTD,22,Craig Reardon,Greenacres,5,
+Referrals YTD,23,Leon Stefani,Marton Mere,5,
+Referrals YTD,24,Danny Martin,Thorpe Park,5,
+Referrals YTD,25,Richard McNulty,Craig Tara,5,
+Referrals YTD,26,Keith Howard,Seashore,5,
+Referrals YTD,27,Carlos Perez,Cala Gran,4,
+Referrals YTD,28,Carl Leech,Seashore,4,
+Referrals YTD,29,Steve Mitchell,Rockley Park,4,
+Referrals YTD,30,Steve Wilkes,Caister,4,
+Referrals YTD,31,Chris King,Craig Tara,4,
+Referrals YTD,32,Jade Button,Wild Duck,4,
+Referrals YTD,33,Mikey O'Gillion,Cala Gran,4,
+Referrals YTD,34,Paul Darroch,Craig Tara,4,
+Referrals YTD,35,Jez Yale,Presthaven,4,
+Referrals YTD,36,Scott Smart,Seashore,4,
+Referrals YTD,37,Amanda Houlden,Far Grange,4,
+Referrals YTD,38,Matt Parsons,Lydstep Beach,4,
+Referrals YTD,39,Adam Daniel,Caister,4,
+Referrals YTD,40,Chris Davis,Primrose Valley,3,
+Referrals YTD,41,Dave Medhurst,Devon Cliffs,3,
+Referrals YTD,42,Nick Butler,Reighton Sands,3,
+Referrals YTD,43,Jay Wilson,Marton Mere,3,
+Referrals YTD,44,Steve Drew,Church Farm,3,
+Referrals YTD,45,Kristie Clark,Littlesea,3,
+Referrals YTD,46,Stuart Anderson,Doniford Bay,3,
+Referrals YTD,47,James Durham,Primrose Valley,3,
+Referrals YTD,48,Chris Eteo,Blue Dolphin ,3,
+Referrals YTD,49,Andrew Rees,Kiln Park,3,
+Referrals YTD,50,Keiran Jump,Doniford Bay,3,
+Referrals YTD,51,Stuart Vallance ,Far Grange,3,
+Referrals YTD,52,Kristian Evans,Presthaven,3,
+Referrals YTD,53,Laura Brash,Seton,3,
+Referrals YTD,54,Masum Ahmed (Ali),Burnham on Sea,2,
+Referrals YTD,55,Benjy Caplan,Weymouth,2,
+Referrals YTD,56,Andy Brant,Berwick  ,2,
+Referrals YTD,57,Glenn Hockings,Caister,2,
+Referrals YTD,58,Jason Forbes,Primrose Valley,2,
+Referrals YTD,59,Rob Bates,Weymouth,2,
+Referrals YTD,60,Amy Franklin,Wild Duck,2,
+Referrals YTD,61,Stephen Friel,Quay West,2,
+Referrals YTD,62,Rose McQuaid,Caister,2,
+Referrals YTD,63,Paul F Bingham,Far Grange,2,
+Referrals YTD,64,Trudy Dowty,Perran Sands,2,
+Referrals YTD,65,Jane Wilson,Greenacres,2,
+Referrals YTD,66,Mark Stanton,Rockley Park,2,
+Referrals YTD,67,Paul Allan,Berwick  ,2,
+Referrals YTD,68,Dave O'Halloran,Hopton,2,
+Referrals YTD,69,Rob Knight,Littlesea,2,
+Referrals YTD,70,Gary Scott,Seashore,2,
+Referrals YTD,71,Mel Cinesi ,Hafan y Mor,2,
+Referrals YTD,72,Stuart Grant,Rockley Park,2,
+Referrals YTD,73,Steve Boardman,Quay West,2,
+Referrals YTD,74,Neil Watson,Allhallows  ,2,
+Referrals YTD,75,James Wilson,Allhallows  ,2,
+Referrals YTD,76,Adrian Linton,Wild Duck,2,
+Referrals YTD,77,Trevor Bowden,Reighton Sands,2,
+Referrals YTD,78,Dave Haggerty,Berwick  ,2,
+Referrals YTD,79,Jonathan Feetham,Hopton,2,
+Referrals YTD,80,Steven Plunkett,Perran Sands,2,
+Referrals YTD,81,Martin Warmer,Rockley Park,2,
+Referrals YTD,82,Richard Harrison,Lakeland,2,
+Referrals YTD,83,Tufail Dad,Reighton Sands,2,
+Referrals YTD,84,James Steele,Seton,2,
+Referrals YTD,85,Glenn Hughes,Presthaven,2,
+Referrals YTD,86,Dominic Devine,Wild Duck,2,
+Referrals YTD,87,Arron Scantlebury,Greenacres,2,
+Referrals YTD,88,Ryan Kirk,Burnham on Sea,1,
+Referrals YTD,89,Chris Newell,Kiln Park,1,
+Referrals YTD,90,Sarah Carmichael,Haggerston,1,
+Referrals YTD,91,Savvas Savva ,Devon Cliffs,1,
+Referrals YTD,92,Ross Marks,Devon Cliffs,1,
+Referrals YTD,93,Joe Lemon,Burnham on Sea,1,
+Referrals YTD,94,Lee Packham,Church Farm,1,
+Referrals YTD,95,Joe Dixon ,Hafan y Mor,1,
+Referrals YTD,96,Chris Allerston,Weymouth,1,
+Referrals YTD,97,Wayne Birkbeck,Lakeland,1,
+Referrals YTD,98,Lee Gregory,Combe Haven,1,
+Referrals YTD,99,Richard Grieve,Haggerston,1,
+Referrals YTD,100,Chris Tedford ,Golden Sands,1,
+Referrals YTD,101,Joel Wilcox,Lakeland,1,
+Referrals YTD,102,Angela Grey,Hopton,1,
+Referrals YTD,103,Steve Reynolds,Caister,1,
+Referrals YTD,104,Gerry Hepher,Church Farm,1,
+Referrals YTD,105,Kevin Grant,Blue Dolphin ,1,
+Referrals YTD,106,Phil Siddle,Blue Dolphin ,1,
+Referrals YTD,107,Nathan Shaw,Perran Sands,1,
+Referrals YTD,108,Mark Clegg ,Hafan y Mor,1,
+Referrals YTD,109,Fiona Gillings,Reighton Sands,1,
+Referrals YTD,110,Johnnie Bell,Craig Tara,1,
+Referrals YTD,111,Sarah Hendry,Thorpe Park,1,
+Referrals YTD,112,James Wills,Rockley Park,1,
+Referrals YTD,113,Danilo Freitas,Rockley Park,1,
+Referrals YTD,114,Bryan Gallacher,Craig Tara,1,
+Referrals YTD,115,Gary Ross,Haggerston,1,
+Referrals YTD,116,Leona Wilson,Craig Tara,1,
+Referrals YTD,117,Chris Macgregor,Seton,1,
+Referrals YTD,118,James Getens,Devon Cliffs,1,
+Referrals YTD,119,Andy Fothergill,Thorpe Park,1,
+Referrals YTD,120,Carwyn James,Quay West,1,
+Referrals YTD,121,Ron Rundle,Weymouth,1,
+Referrals YTD,122,Mark Payne,Seton,1,
+Referrals YTD,123,Ryan Park,Cala Gran,1,
+Referrals YTD,124,Adrian Russell,Golden Sands,1,
+Referrals YTD,125,Jessica O'Malley,Hopton,1,
+Referrals YTD,126,Gary Reed,Combe Haven,1,
+Referrals YTD,127,Ashley Ocego,Hopton,1,
+Referrals YTD,128,Lyndsey Daniels,Combe Haven,1,
+Referrals YTD,129,Mel Cinesi,Allhallows  ,1,
+Referrals YTD,130,Emily Johansson ,Lydstep Beach,1,
+Referrals YTD,131,Paul Whittaker,Burnham on Sea,1,
+Referrals YTD,132,Danny Kaye,Far Grange,1,
+Referrals YTD,133,Danni Stephenson,Far Grange,1,
+Referrals YTD,134,Chris Logue,Berwick  ,1,
+Referrals YTD,135,Simon Clarke,Thorpe Park,1,
+Referrals YTD,136,Anna King,Rockley Park,1,
+Referrals YTD,137,Peter Daulton,Primrose Valley,0,
+Referrals YTD,138,Ian Harrison,Haggerston,0,
+Referrals YTD,139,Mark Northmore,Devon Cliffs,0,
+Referrals YTD,140,Eddy Davies,Littlesea,0,
+Referrals YTD,141,Rod Foran,Thorpe Park,0,
+Referrals YTD,142,Pete Johnson,Devon Cliffs,0,
+Referrals YTD,143,Chaz Gross,Church Farm,0,
+Referrals YTD,144,Loren Rafique,Combe Haven,0,
+Referrals YTD,145,James Lankovits,Kiln Park,0,
+Referrals YTD,146,Dave Staniforth,Primrose Valley,0,
+Referrals YTD,147,Ruth Guest,Blue Dolphin ,0,
+Referrals YTD,148,Steven Burgess,Church Farm,0,
+Referrals YTD,149,Lee Rubens,Littlesea,0,
+Referrals YTD,150,Dean Taylor,Thorpe Park,0,
+Referrals YTD,151,Barry McBeth,Hafan y Mor,0,
+Referrals YTD,152,James Gatens,Devon Cliffs,0,
+Referrals YTD,153,Martin Woods,Primrose Valley,0,
+Referrals YTD,154,Neal Hargreaves,Orchards,0,
+Referrals YTD,155,Matthew Shaw,Haggerston,0,
+Referrals YTD,156,Damian MacDonald,Presthaven,0,
+Referrals YTD,157,Dave Hedley,Haggerston,0,
+Referrals YTD,158,Aaron Scantlebury,Greenacres,0,
+Referrals YTD,159,Ashleigh Honey,Combe Haven,0,
+Referrals YTD,160,Neil Evans,Lydstep Beach,0,
+Referrals YTD,161,Murray Gissing,Thorpe Park,0,
+Referrals YTD,162,Lynn Harris,Allhallows  ,0,
+Referrals YTD,163,Laura Prior,Cala Gran,0,
+Referrals YTD,164,Colin Butler ,Rockley Park,0,
+Referrals YTD,165,Geoff Slater,Far Grange,0,
+Referrals YTD,166,Dai Jones,Kiln Park,0,
+Referrals YTD,167,Chris Williams,Lydstep Beach,0,
+Referrals YTD,168,David Jones,Kiln Park,0,
+Referrals YTD,169,April Picton,Burnham on Sea,0,
+Referrals YTD,170,Ben Daulby,Littlesea,0,
+Referrals YTD,171,Becky Beechy,Quay West,0,
+Referrals YTD,172,Andy Crowther,Berwick  ,0,
+Referrals YTD,173,Dave Hoban,Presthaven,0,
+Referrals YTD,174,Sherryann Gould,Quay West,0,
+Referrals YTD,175,Paul Griffin,Caister,0,
+Referrals YTD,176,Sarah Scott,Berwick  ,0,
+Referrals YTD,177,Paul Bingham ,Far Grange,0,
+Referrals YTD,178,Bobby Jones,Littlesea,0,
+Referrals YTD,179,Gill Lowen,Caister,0,
+Referrals YTD,180,Steve Burgess,Church Farm,0,
+Referrals YTD,181,Bernie Lawson,Seton,0,
+Referrals YTD,182,Kayleigh Jackson,Littlesea,0,
+Referrals YTD,183,Dean Turner,Combe Haven,0,
+Referrals YTD,184,Kelly Lowen,Seashore,0,
+Referrals YTD,185,Manager,Orchards,0,
+Referrals YTD,186,Ben Brooks,Kiln Park,0,

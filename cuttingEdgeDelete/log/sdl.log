@@ -1,0 +1,22 @@
+2012-09-16 18:11:53,838 INFO  [main] controller.Controller initLog (Controller.java:367) - The log has been initialized
+2012-09-16 18:11:53,852 INFO  [main] process.ProcessConfig getBeanFactory (ProcessConfig.java:78) - Loading process configuration from config file: C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeDelete\config\process-conf.xml
+2012-09-16 18:11:53,956 INFO  [main] xml.XmlBeanDefinitionReader loadBeanDefinitions (XmlBeanDefinitionReader.java:163) - Loading XML bean definitions from file [C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeDelete\config\process-conf.xml]
+2012-09-16 18:11:54,023 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:66) - JDK 1.4+ collections available
+2012-09-16 18:11:54,044 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:71) - Commons Collections 3.x available
+2012-09-16 18:11:54,175 INFO  [cuttingEdgeDelete] controller.Controller initConfig (Controller.java:328) - The controller config has been initialized
+2012-09-16 18:11:54,182 INFO  [cuttingEdgeDelete] process.ProcessRunner run (ProcessRunner.java:90) - Initializing process engine
+2012-09-16 18:11:54,183 INFO  [cuttingEdgeDelete] process.ProcessRunner run (ProcessRunner.java:93) - Loading parameters
+2012-09-16 18:11:56,085 INFO  [cuttingEdgeDelete] config.LastRun load (LastRun.java:101) - Last run info will be saved in file: C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeDelete\log\cuttingEdgeDelete_lastRun.properties
+2012-09-16 18:11:56,122 INFO  [cuttingEdgeDelete] process.ProcessRunner run (ProcessRunner.java:101) - Logging in to: https://www.salesforce.com/services/Soap/u/22.0
+2012-09-16 18:11:56,142 INFO  [cuttingEdgeDelete] client.PartnerClient login (PartnerClient.java:448) - Beginning Partner Salesforce login ....
+2012-09-16 18:11:56,189 INFO  [cuttingEdgeDelete] client.PartnerClient loginInternal (PartnerClient.java:488) - Salesforce login to https://www.salesforce.com/services/Soap/u/22.0/services/Soap/u/22.0 as user mp@bourne-leisure.co.uk
+2012-09-16 18:11:57,212 INFO  [cuttingEdgeDelete] dao.DataAccessObjectFactory getDaoInstance (DataAccessObjectFactory.java:51) - Instantiating data access object: C:\Work\Apex Data Loader 22.0\cliq_process\cuttingEdgeExport\write\cuttingEdgeExport.csv of type: csvRead
+2012-09-16 18:11:57,220 INFO  [cuttingEdgeDelete] process.ProcessRunner run (ProcessRunner.java:106) - Checking the data access object connection
+2012-09-16 18:11:57,222 INFO  [cuttingEdgeDelete] process.ProcessRunner run (ProcessRunner.java:111) - Setting field types
+2012-09-16 18:11:58,129 INFO  [cuttingEdgeDelete] process.ProcessRunner run (ProcessRunner.java:115) - Setting object reference types
+2012-09-16 18:11:58,320 INFO  [cuttingEdgeDelete] process.ProcessRunner run (ProcessRunner.java:119) - Creating Map
+2012-09-16 18:11:58,325 INFO  [cuttingEdgeDelete] action.OperationInfo instantiateAction (OperationInfo.java:70) - Instantiating action for operation: delete
+2012-09-16 18:11:58,426 INFO  [cuttingEdgeDelete] controller.Controller executeAction (Controller.java:106) - executing operation: delete
+2012-09-16 18:11:58,427 INFO  [cuttingEdgeDelete] action.AbstractAction execute (AbstractAction.java:113) - Loading: delete
+2012-09-16 18:11:58,729 INFO  [cuttingEdgeDelete] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 16 of 16 total records. Rate: 210,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 16 successes and 0 errors.
+2012-09-16 18:11:58,770 INFO  [cuttingEdgeDelete] progress.NihilistProgressAdapter doneSuccess (NihilistProgressAdapter.java:60) - The operation has fully completed.  There were 16 successful deletes and 0 errors.

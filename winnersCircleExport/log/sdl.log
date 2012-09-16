@@ -1,0 +1,100 @@
+2012-09-12 20:23:37,198 INFO  [main] controller.Controller initLog (Controller.java:367) - The log has been initialized
+2012-09-12 20:23:37,213 INFO  [main] process.ProcessConfig getBeanFactory (ProcessConfig.java:78) - Loading process configuration from config file: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\config\process-conf.xml
+2012-09-12 20:23:37,315 INFO  [main] xml.XmlBeanDefinitionReader loadBeanDefinitions (XmlBeanDefinitionReader.java:163) - Loading XML bean definitions from file [C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\config\process-conf.xml]
+2012-09-12 20:23:37,378 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:66) - JDK 1.4+ collections available
+2012-09-12 20:23:37,402 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:71) - Commons Collections 3.x available
+2012-09-12 20:23:37,534 INFO  [winnersCircleExport] controller.Controller initConfig (Controller.java:328) - The controller config has been initialized
+2012-09-12 20:23:37,544 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:90) - Initializing process engine
+2012-09-12 20:23:37,547 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:93) - Loading parameters
+2012-09-12 20:23:39,619 INFO  [winnersCircleExport] config.LastRun load (LastRun.java:101) - Last run info will be saved in file: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\log\winnersCircleExport_lastRun.properties
+2012-09-12 20:23:39,658 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:101) - Logging in to: https://www.salesforce.com/services/Soap/u/22.0
+2012-09-12 20:23:39,682 INFO  [winnersCircleExport] client.PartnerClient login (PartnerClient.java:448) - Beginning Partner Salesforce login ....
+2012-09-12 20:23:39,730 INFO  [winnersCircleExport] client.PartnerClient loginInternal (PartnerClient.java:488) - Salesforce login to https://www.salesforce.com/services/Soap/u/22.0/services/Soap/u/22.0 as user mp@bourne-leisure.co.uk
+2012-09-12 20:23:40,666 INFO  [winnersCircleExport] dao.DataAccessObjectFactory getDaoInstance (DataAccessObjectFactory.java:51) - Instantiating data access object: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\write\winnersCircleExport.csv of type: csvWrite
+2012-09-12 20:23:40,674 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:106) - Checking the data access object connection
+2012-09-12 20:23:40,680 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:111) - Setting field types
+2012-09-12 20:23:41,631 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:115) - Setting object reference types
+2012-09-12 20:23:41,866 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:119) - Creating Map
+2012-09-12 20:23:41,877 INFO  [winnersCircleExport] action.OperationInfo instantiateAction (OperationInfo.java:70) - Instantiating action for operation: extract
+2012-09-12 20:23:41,897 INFO  [winnersCircleExport] controller.Controller executeAction (Controller.java:106) - executing operation: extract
+2012-09-12 20:23:41,900 INFO  [winnersCircleExport] action.AbstractAction execute (AbstractAction.java:113) - Loading: extract
+2012-09-12 20:23:42,466 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 500 of 1,531 total records. Rate: 20,689,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 500 successes and 0 errors.
+2012-09-12 20:23:42,874 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,000 of 1,531 total records. Rate: 7,228,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,000 successes and 0 errors.
+2012-09-12 20:23:43,218 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,500 of 1,531 total records. Rate: 6,420,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,500 successes and 0 errors.
+2012-09-12 20:23:43,382 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,531 of 1,531 total records. Rate: 5,484,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,531 successes and 0 errors.
+2012-09-12 20:23:43,402 INFO  [winnersCircleExport] progress.NihilistProgressAdapter doneSuccess (NihilistProgressAdapter.java:60) - The operation has fully completed.  There were 1531 successful extractions and 0 errors.
+2012-09-12 20:24:29,291 INFO  [main] controller.Controller initLog (Controller.java:367) - The log has been initialized
+2012-09-12 20:24:29,305 INFO  [main] process.ProcessConfig getBeanFactory (ProcessConfig.java:78) - Loading process configuration from config file: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\config\process-conf.xml
+2012-09-12 20:24:29,406 INFO  [main] xml.XmlBeanDefinitionReader loadBeanDefinitions (XmlBeanDefinitionReader.java:163) - Loading XML bean definitions from file [C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\config\process-conf.xml]
+2012-09-12 20:24:29,468 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:66) - JDK 1.4+ collections available
+2012-09-12 20:24:29,488 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:71) - Commons Collections 3.x available
+2012-09-12 20:24:29,613 INFO  [winnersCircleExport] controller.Controller initConfig (Controller.java:328) - The controller config has been initialized
+2012-09-12 20:24:29,621 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:90) - Initializing process engine
+2012-09-12 20:24:29,622 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:93) - Loading parameters
+2012-09-12 20:24:31,682 INFO  [winnersCircleExport] config.LastRun load (LastRun.java:101) - Last run info will be saved in file: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\log\winnersCircleExport_lastRun.properties
+2012-09-12 20:24:31,716 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:101) - Logging in to: https://www.salesforce.com/services/Soap/u/22.0
+2012-09-12 20:24:31,738 INFO  [winnersCircleExport] client.PartnerClient login (PartnerClient.java:448) - Beginning Partner Salesforce login ....
+2012-09-12 20:24:31,783 INFO  [winnersCircleExport] client.PartnerClient loginInternal (PartnerClient.java:488) - Salesforce login to https://www.salesforce.com/services/Soap/u/22.0/services/Soap/u/22.0 as user mp@bourne-leisure.co.uk
+2012-09-12 20:24:32,727 INFO  [winnersCircleExport] dao.DataAccessObjectFactory getDaoInstance (DataAccessObjectFactory.java:51) - Instantiating data access object: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\write\winnersCircleExport.csv of type: csvWrite
+2012-09-12 20:24:32,730 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:106) - Checking the data access object connection
+2012-09-12 20:24:32,736 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:111) - Setting field types
+2012-09-12 20:24:33,568 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:115) - Setting object reference types
+2012-09-12 20:24:33,798 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:119) - Creating Map
+2012-09-12 20:24:33,806 INFO  [winnersCircleExport] action.OperationInfo instantiateAction (OperationInfo.java:70) - Instantiating action for operation: extract
+2012-09-12 20:24:33,820 INFO  [winnersCircleExport] controller.Controller executeAction (Controller.java:106) - executing operation: extract
+2012-09-12 20:24:33,825 INFO  [winnersCircleExport] action.AbstractAction execute (AbstractAction.java:113) - Loading: extract
+2012-09-12 20:24:34,300 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 500 of 1,531 total records. Rate: 40,000,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 500 successes and 0 errors.
+2012-09-12 20:24:34,688 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,000 of 1,531 total records. Rate: 8,294,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,000 successes and 0 errors.
+2012-09-12 20:24:35,019 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,500 of 1,531 total records. Rate: 7,058,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,500 successes and 0 errors.
+2012-09-12 20:24:35,186 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,531 of 1,531 total records. Rate: 5,913,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,531 successes and 0 errors.
+2012-09-12 20:24:35,203 INFO  [winnersCircleExport] progress.NihilistProgressAdapter doneSuccess (NihilistProgressAdapter.java:60) - The operation has fully completed.  There were 1531 successful extractions and 0 errors.
+2012-09-14 09:34:32,699 INFO  [main] controller.Controller initLog (Controller.java:367) - The log has been initialized
+2012-09-14 09:34:32,735 INFO  [main] process.ProcessConfig getBeanFactory (ProcessConfig.java:78) - Loading process configuration from config file: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\config\process-conf.xml
+2012-09-14 09:34:32,892 INFO  [main] xml.XmlBeanDefinitionReader loadBeanDefinitions (XmlBeanDefinitionReader.java:163) - Loading XML bean definitions from file [C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\config\process-conf.xml]
+2012-09-14 09:34:32,989 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:66) - JDK 1.4+ collections available
+2012-09-14 09:34:33,049 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:71) - Commons Collections 3.x available
+2012-09-14 09:34:33,320 INFO  [winnersCircleExport] controller.Controller initConfig (Controller.java:328) - The controller config has been initialized
+2012-09-14 09:34:33,329 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:90) - Initializing process engine
+2012-09-14 09:34:33,331 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:93) - Loading parameters
+2012-09-14 09:34:36,986 INFO  [winnersCircleExport] config.LastRun load (LastRun.java:101) - Last run info will be saved in file: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\log\winnersCircleExport_lastRun.properties
+2012-09-14 09:34:37,036 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:101) - Logging in to: https://www.salesforce.com/services/Soap/u/22.0
+2012-09-14 09:34:37,057 INFO  [winnersCircleExport] client.PartnerClient login (PartnerClient.java:448) - Beginning Partner Salesforce login ....
+2012-09-14 09:34:37,182 INFO  [winnersCircleExport] client.PartnerClient loginInternal (PartnerClient.java:488) - Salesforce login to https://www.salesforce.com/services/Soap/u/22.0/services/Soap/u/22.0 as user mp@bourne-leisure.co.uk
+2012-09-14 09:34:38,396 INFO  [winnersCircleExport] dao.DataAccessObjectFactory getDaoInstance (DataAccessObjectFactory.java:51) - Instantiating data access object: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\write\winnersCircleExport.csv of type: csvWrite
+2012-09-14 09:34:38,400 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:106) - Checking the data access object connection
+2012-09-14 09:34:38,402 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:111) - Setting field types
+2012-09-14 09:34:39,324 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:115) - Setting object reference types
+2012-09-14 09:34:39,780 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:119) - Creating Map
+2012-09-14 09:34:39,793 INFO  [winnersCircleExport] action.OperationInfo instantiateAction (OperationInfo.java:70) - Instantiating action for operation: extract
+2012-09-14 09:34:39,809 INFO  [winnersCircleExport] controller.Controller executeAction (Controller.java:106) - executing operation: extract
+2012-09-14 09:34:39,810 INFO  [winnersCircleExport] action.AbstractAction execute (AbstractAction.java:113) - Loading: extract
+2012-09-14 09:34:40,227 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 500 of 1,531 total records. Rate: 40,909,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 500 successes and 0 errors.
+2012-09-14 09:34:40,625 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,000 of 1,531 total records. Rate: 8,089,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,000 successes and 0 errors.
+2012-09-14 09:34:40,925 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,500 of 1,531 total records. Rate: 7,258,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,500 successes and 0 errors.
+2012-09-14 09:34:41,072 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,531 of 1,531 total records. Rate: 6,178,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,531 successes and 0 errors.
+2012-09-14 09:34:41,089 INFO  [winnersCircleExport] progress.NihilistProgressAdapter doneSuccess (NihilistProgressAdapter.java:60) - The operation has fully completed.  There were 1531 successful extractions and 0 errors.
+2012-09-16 17:28:28,123 INFO  [main] controller.Controller initLog (Controller.java:367) - The log has been initialized
+2012-09-16 17:28:28,172 INFO  [main] process.ProcessConfig getBeanFactory (ProcessConfig.java:78) - Loading process configuration from config file: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\config\process-conf.xml
+2012-09-16 17:28:28,368 INFO  [main] xml.XmlBeanDefinitionReader loadBeanDefinitions (XmlBeanDefinitionReader.java:163) - Loading XML bean definitions from file [C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\config\process-conf.xml]
+2012-09-16 17:28:28,459 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:66) - JDK 1.4+ collections available
+2012-09-16 17:28:28,524 INFO  [main] core.CollectionFactory <clinit> (CollectionFactory.java:71) - Commons Collections 3.x available
+2012-09-16 17:28:28,799 INFO  [winnersCircleExport] controller.Controller initConfig (Controller.java:328) - The controller config has been initialized
+2012-09-16 17:28:28,806 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:90) - Initializing process engine
+2012-09-16 17:28:28,808 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:93) - Loading parameters
+2012-09-16 17:28:32,644 INFO  [winnersCircleExport] config.LastRun load (LastRun.java:101) - Last run info will be saved in file: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\log\winnersCircleExport_lastRun.properties
+2012-09-16 17:28:32,693 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:101) - Logging in to: https://www.salesforce.com/services/Soap/u/22.0
+2012-09-16 17:28:32,713 INFO  [winnersCircleExport] client.PartnerClient login (PartnerClient.java:448) - Beginning Partner Salesforce login ....
+2012-09-16 17:28:32,775 INFO  [winnersCircleExport] client.PartnerClient loginInternal (PartnerClient.java:488) - Salesforce login to https://www.salesforce.com/services/Soap/u/22.0/services/Soap/u/22.0 as user mp@bourne-leisure.co.uk
+2012-09-16 17:28:34,474 INFO  [winnersCircleExport] dao.DataAccessObjectFactory getDaoInstance (DataAccessObjectFactory.java:51) - Instantiating data access object: C:\Work\Apex Data Loader 22.0\cliq_process\winnersCircleExport\write\winnersCircleExport.csv of type: csvWrite
+2012-09-16 17:28:34,477 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:106) - Checking the data access object connection
+2012-09-16 17:28:34,480 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:111) - Setting field types
+2012-09-16 17:28:35,585 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:115) - Setting object reference types
+2012-09-16 17:28:35,853 INFO  [winnersCircleExport] process.ProcessRunner run (ProcessRunner.java:119) - Creating Map
+2012-09-16 17:28:35,862 INFO  [winnersCircleExport] action.OperationInfo instantiateAction (OperationInfo.java:70) - Instantiating action for operation: extract
+2012-09-16 17:28:35,886 INFO  [winnersCircleExport] controller.Controller executeAction (Controller.java:106) - executing operation: extract
+2012-09-16 17:28:35,889 INFO  [winnersCircleExport] action.AbstractAction execute (AbstractAction.java:113) - Loading: extract
+2012-09-16 17:28:36,372 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 500 of 1,531 total records. Rate: 37,500,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 500 successes and 0 errors.
+2012-09-16 17:28:36,827 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,000 of 1,531 total records. Rate: 7,128,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,000 successes and 0 errors.
+2012-09-16 17:28:37,177 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,500 of 1,531 total records. Rate: 6,315,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,500 successes and 0 errors.
+2012-09-16 17:28:37,358 INFO  [winnersCircleExport] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 1,531 of 1,531 total records. Rate: 5,320,000 records per hour. Estimated time to complete: 0 minutes and 0 seconds.  There are 1,531 successes and 0 errors.
+2012-09-16 17:28:37,380 INFO  [winnersCircleExport] progress.NihilistProgressAdapter doneSuccess (NihilistProgressAdapter.java:60) - The operation has fully completed.  There were 1531 successful extractions and 0 errors.
