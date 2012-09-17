@@ -1,0 +1,8 @@
+#Mapping values
+#Sun Sep 16 19:39:58 GMT 2012
+ACCOUNT=Account_Number__c
+Total\ Sales=Total_Sales_Value__c
+Calculated\ Profit=Calculated_Profit__c
+Year\ Made=Year_Made__c
+Model=Model__c
+Make=Make__c

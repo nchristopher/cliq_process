@@ -1,0 +1,515 @@
+2012-09-17 10:59:38,711 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:38,716 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item94
+2012-09-17 10:59:38,720 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:38,728 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:38,732 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item95
+2012-09-17 10:59:38,735 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:38,741 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:38,746 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item96
+2012-09-17 10:59:38,749 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:38,754 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:38,759 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item97
+2012-09-17 10:59:38,763 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:38,768 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:38,773 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item98
+2012-09-17 10:59:38,777 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:38,785 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:38,789 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item99
+2012-09-17 10:59:38,793 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:38,797 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:38,812 INFO  [opportunityIntegration] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 400 of 564 total records. Rate: 2,000 records per hour. Estimated time to complete: 16 minutes and 17 seconds.  There are 1 successes and 399 errors.
+2012-09-17 10:59:39,356 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item0
+2012-09-17 10:59:39,363 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,369 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,374 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item1
+2012-09-17 10:59:39,377 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,382 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,388 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item2
+2012-09-17 10:59:39,391 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,397 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,401 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item3
+2012-09-17 10:59:39,405 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,413 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,419 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item4
+2012-09-17 10:59:39,422 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,428 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,433 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item5
+2012-09-17 10:59:39,437 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,441 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,447 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item6
+2012-09-17 10:59:39,450 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,454 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,460 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item7
+2012-09-17 10:59:39,464 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,469 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,474 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item8
+2012-09-17 10:59:39,477 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,483 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,487 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item9
+2012-09-17 10:59:39,492 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,497 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,502 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item10
+2012-09-17 10:59:39,506 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,511 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,517 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item11
+2012-09-17 10:59:39,520 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,525 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,530 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item12
+2012-09-17 10:59:39,534 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,538 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,545 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item13
+2012-09-17 10:59:39,548 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,554 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,559 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item14
+2012-09-17 10:59:39,562 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,567 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,572 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item15
+2012-09-17 10:59:39,576 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,581 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,586 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item16
+2012-09-17 10:59:39,590 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,595 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,600 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item17
+2012-09-17 10:59:39,603 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,609 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,615 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item18
+2012-09-17 10:59:39,618 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,623 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,628 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item19
+2012-09-17 10:59:39,632 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,637 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,642 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item20
+2012-09-17 10:59:39,645 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,650 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,655 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item21
+2012-09-17 10:59:39,659 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,664 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,670 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item22
+2012-09-17 10:59:39,673 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,678 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,684 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item23
+2012-09-17 10:59:39,688 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,692 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,698 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item24
+2012-09-17 10:59:39,701 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,706 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,714 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item25
+2012-09-17 10:59:39,720 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,726 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,731 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item26
+2012-09-17 10:59:39,735 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,740 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,746 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item27
+2012-09-17 10:59:39,751 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,755 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,762 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item28
+2012-09-17 10:59:39,766 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,775 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,780 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item29
+2012-09-17 10:59:39,784 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,789 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,797 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item30
+2012-09-17 10:59:39,801 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,811 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,818 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item31
+2012-09-17 10:59:39,826 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,832 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,843 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item32
+2012-09-17 10:59:39,847 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,854 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,858 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item33
+2012-09-17 10:59:39,862 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,867 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,872 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item34
+2012-09-17 10:59:39,877 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,881 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,887 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item35
+2012-09-17 10:59:39,891 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,897 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,901 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item36
+2012-09-17 10:59:39,906 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,910 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,915 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item37
+2012-09-17 10:59:39,919 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,924 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,929 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item38
+2012-09-17 10:59:39,933 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,937 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,942 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item39
+2012-09-17 10:59:39,946 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,951 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,956 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item40
+2012-09-17 10:59:39,960 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,967 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,972 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item41
+2012-09-17 10:59:39,976 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,980 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:39,985 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item42
+2012-09-17 10:59:39,990 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:39,994 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,000 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item43
+2012-09-17 10:59:40,003 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,008 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,013 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item44
+2012-09-17 10:59:40,017 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,023 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,028 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item45
+2012-09-17 10:59:40,032 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,037 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,042 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item46
+2012-09-17 10:59:40,046 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,051 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,055 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item47
+2012-09-17 10:59:40,060 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,065 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,070 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item48
+2012-09-17 10:59:40,073 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,078 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,084 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item49
+2012-09-17 10:59:40,088 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,092 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,098 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item50
+2012-09-17 10:59:40,101 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,106 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,111 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item51
+2012-09-17 10:59:40,115 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,120 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,125 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item52
+2012-09-17 10:59:40,128 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,133 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,138 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item53
+2012-09-17 10:59:40,142 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,148 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,152 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item54
+2012-09-17 10:59:40,156 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,161 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,167 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item55
+2012-09-17 10:59:40,170 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,175 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,180 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item56
+2012-09-17 10:59:40,184 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,188 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,194 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item57
+2012-09-17 10:59:40,198 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,202 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,208 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item58
+2012-09-17 10:59:40,212 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,217 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,222 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item59
+2012-09-17 10:59:40,226 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,230 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,236 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item60
+2012-09-17 10:59:40,239 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,244 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,249 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item61
+2012-09-17 10:59:40,254 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,261 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,266 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item62
+2012-09-17 10:59:40,271 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,276 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,280 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item63
+2012-09-17 10:59:40,284 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,289 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,295 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item64
+2012-09-17 10:59:40,298 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,303 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,308 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item65
+2012-09-17 10:59:40,312 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,317 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,322 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item66
+2012-09-17 10:59:40,326 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,332 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,336 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item67
+2012-09-17 10:59:40,340 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,344 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,350 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item68
+2012-09-17 10:59:40,354 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,358 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,364 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item69
+2012-09-17 10:59:40,367 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,372 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,378 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item70
+2012-09-17 10:59:40,381 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,387 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,393 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item71
+2012-09-17 10:59:40,397 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,402 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,407 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item72
+2012-09-17 10:59:40,410 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,416 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,420 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item73
+2012-09-17 10:59:40,424 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,429 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,434 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item74
+2012-09-17 10:59:40,438 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,445 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,451 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item75
+2012-09-17 10:59:40,455 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,460 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,465 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item76
+2012-09-17 10:59:40,468 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,473 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,479 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item77
+2012-09-17 10:59:40,486 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,492 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,497 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item78
+2012-09-17 10:59:40,500 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,506 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,511 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item79
+2012-09-17 10:59:40,515 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,519 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,524 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item80
+2012-09-17 10:59:40,528 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,533 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,538 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item81
+2012-09-17 10:59:40,542 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,547 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,551 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item82
+2012-09-17 10:59:40,555 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,561 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,566 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item83
+2012-09-17 10:59:40,569 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,574 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,579 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item84
+2012-09-17 10:59:40,583 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,590 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,595 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item85
+2012-09-17 10:59:40,598 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,603 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,608 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item86
+2012-09-17 10:59:40,612 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,619 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,624 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item87
+2012-09-17 10:59:40,628 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,633 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,638 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item88
+2012-09-17 10:59:40,642 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,647 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,654 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item89
+2012-09-17 10:59:40,658 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,662 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,668 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item90
+2012-09-17 10:59:40,672 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,677 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,683 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item91
+2012-09-17 10:59:40,687 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,692 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,698 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item92
+2012-09-17 10:59:40,702 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,707 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,717 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item93
+2012-09-17 10:59:40,722 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,727 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,734 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item94
+2012-09-17 10:59:40,737 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,741 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,747 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item95
+2012-09-17 10:59:40,750 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,758 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,763 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item96
+2012-09-17 10:59:40,767 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,772 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,777 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item97
+2012-09-17 10:59:40,781 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,786 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,791 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item98
+2012-09-17 10:59:40,795 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,799 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,804 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item99
+2012-09-17 10:59:40,808 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:40,814 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:40,829 INFO  [opportunityIntegration] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 500 of 564 total records. Rate: 1,000 records per hour. Estimated time to complete: 18 minutes and 39 seconds.  There are 1 successes and 499 errors.
+2012-09-17 10:59:41,140 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item0
+2012-09-17 10:59:41,144 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,151 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,157 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item1
+2012-09-17 10:59:41,162 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,167 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,172 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item2
+2012-09-17 10:59:41,176 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,180 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,186 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item3
+2012-09-17 10:59:41,190 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,194 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,200 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item4
+2012-09-17 10:59:41,203 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,207 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,213 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item5
+2012-09-17 10:59:41,217 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,222 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,227 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item6
+2012-09-17 10:59:41,231 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,236 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,240 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item7
+2012-09-17 10:59:41,244 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,249 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,254 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item8
+2012-09-17 10:59:41,258 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,262 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,267 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item9
+2012-09-17 10:59:41,271 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,276 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,281 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item10
+2012-09-17 10:59:41,284 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,289 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,295 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item11
+2012-09-17 10:59:41,298 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,303 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,308 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item12
+2012-09-17 10:59:41,311 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,316 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,321 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item13
+2012-09-17 10:59:41,325 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,329 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,334 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item14
+2012-09-17 10:59:41,339 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,343 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,350 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item15
+2012-09-17 10:59:41,353 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,359 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,364 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item16
+2012-09-17 10:59:41,367 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,372 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,377 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item17
+2012-09-17 10:59:41,381 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,386 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,391 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item18
+2012-09-17 10:59:41,395 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,400 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,405 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item19
+2012-09-17 10:59:41,409 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,414 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,419 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item20
+2012-09-17 10:59:41,422 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,427 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,433 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item21
+2012-09-17 10:59:41,436 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,441 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,446 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item22
+2012-09-17 10:59:41,449 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,454 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,460 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item23
+2012-09-17 10:59:41,463 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,468 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,473 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item24
+2012-09-17 10:59:41,477 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,482 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,487 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item25
+2012-09-17 10:59:41,490 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,495 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,500 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item26
+2012-09-17 10:59:41,503 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,508 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,514 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item27
+2012-09-17 10:59:41,518 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,523 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,529 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item28
+2012-09-17 10:59:41,532 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,537 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,542 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item29
+2012-09-17 10:59:41,545 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,551 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,556 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item30
+2012-09-17 10:59:41,559 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,564 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,568 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item31
+2012-09-17 10:59:41,572 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,577 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,582 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item32
+2012-09-17 10:59:41,588 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,592 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,597 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item33
+2012-09-17 10:59:41,601 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,606 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,611 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item34
+2012-09-17 10:59:41,616 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,621 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,626 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item35
+2012-09-17 10:59:41,630 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,635 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,639 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item36
+2012-09-17 10:59:41,646 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,650 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,656 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item37
+2012-09-17 10:59:41,660 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,665 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,673 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item38
+2012-09-17 10:59:41,676 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,685 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,694 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item39
+2012-09-17 10:59:41,698 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,706 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,715 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item40
+2012-09-17 10:59:41,719 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,726 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,730 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item41
+2012-09-17 10:59:41,734 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,739 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,743 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item42
+2012-09-17 10:59:41,747 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,752 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,756 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item43
+2012-09-17 10:59:41,760 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,766 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,770 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item44
+2012-09-17 10:59:41,773 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,779 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,784 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item45
+2012-09-17 10:59:41,789 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,793 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,799 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item46
+2012-09-17 10:59:41,802 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,808 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,812 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item47
+2012-09-17 10:59:41,819 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,824 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,830 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item48
+2012-09-17 10:59:41,833 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,838 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,844 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item49
+2012-09-17 10:59:41,847 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,852 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,858 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item50
+2012-09-17 10:59:41,861 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,866 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,871 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item51
+2012-09-17 10:59:41,875 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,880 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,884 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item52
+2012-09-17 10:59:41,888 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,893 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,898 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item53
+2012-09-17 10:59:41,903 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,907 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,913 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item54
+2012-09-17 10:59:41,917 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,921 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,927 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item55
+2012-09-17 10:59:41,930 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,935 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,940 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item56
+2012-09-17 10:59:41,944 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,948 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,953 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item57
+2012-09-17 10:59:41,957 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,961 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,966 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item58
+2012-09-17 10:59:41,970 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,975 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,980 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item59
+2012-09-17 10:59:41,983 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:41,988 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:41,994 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item60
+2012-09-17 10:59:41,998 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:42,003 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:42,008 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item61
+2012-09-17 10:59:42,012 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:42,017 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:42,022 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item62
+2012-09-17 10:59:42,026 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:42,032 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:42,036 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:402) - Errors were found on item63
+2012-09-17 10:59:42,040 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:404) - Error code is:FIELD_CUSTOM_VALIDATION_EXCEPTION
+2012-09-17 10:59:42,045 ERROR [opportunityIntegration] client.PartnerClient processResult (PartnerClient.java:405) - Error message:Appointment must be maintained before an account number is entered
+2012-09-17 10:59:42,059 INFO  [opportunityIntegration] progress.NihilistProgressAdapter setSubTask (NihilistProgressAdapter.java:73) - Processed 564 of 564 total records. Rate: 3,000 records per hour. Estimated time to complete: 11 minutes and 9 seconds.  There are 1 successes and 563 errors.
+2012-09-17 10:59:42,074 INFO  [opportunityIntegration] progress.NihilistProgressAdapter doneSuccess (NihilistProgressAdapter.java:60) - The operation has fully completed.  There were 1 successful upserts and 563 errors.
